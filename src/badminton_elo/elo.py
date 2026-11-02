@@ -134,8 +134,7 @@ def main() -> int:
         "rounds": [{k: r[k] for k in ("id", "label", "year", "month", "order")} for r in rounds],
         "players": players,
     }
-    (DATA / "elo.json").write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8", newline="
-")
+    (DATA / "elo.json").write_text(json.dumps(out, ensure_ascii=False), encoding="utf-8", newline="\n")
     n_matches = sum(p["matches"] for p in players.values()) // 2
     print(f"{len(rounds)} rounds, {len(players)} players, {n_matches} rated matches")
     return 0
