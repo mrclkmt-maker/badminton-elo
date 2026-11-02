@@ -1,0 +1,18 @@
+[project]
+name = "badminton-elo"
+version = "0.1.0"
+description = "ELO ranking of the Prague badminton league (vaseliga.cz)"
+authors = [
+    { name = "mrclkmt-maker", email = "mrclkmt@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "jinja2>=3.1.6",
+    "lxml>=6.1.3",
+    "requests>=2.34.2",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.8,<0.13.0"]
+build-backend = "uv_build"

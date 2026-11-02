@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}{{ p.name }} – {{ site_name }}{% endblock %}
+{% block content %}
+<h1>{{ p.name }}</h1>
+<p class="muted">
+  {% if p.rank %}{{ p.rank }}. místo v žebříčku aktivních hráčů.{% else %}Hráč v posledních {{ active_months }} měsících nehrál, v hlavním žebříčku není.{% endif %}
+  V lize od {{ p.first_label }}, naposledy hrál {{ p.last_label }}{% if p.last_level %} ({{ p.last_level }}. úroveň){% endif %}.
+</p>
+<div class="stats">
+  <div><span>ELO</span><b>{{ p.rating_int }}</b></div>
+  <div><span>Maximum</span><b>{{ p.peak|round|int }}</b></div>
+  <div><span>Zápasy</span><b>{{ p.matches }}</b></div>
+  <div><span>Výhry / prohry</span><b>{{ p.wins }} / {{ p.losses }}</b></div>
+  <div><span>Úspěšnost</span><b>{% if p.win_pct is not none %}{{ p.win_pct }} %{% else %}–{% endif %}</b></div>
+  <div><span>Skreče (získané / ztracené)</span><b>{{ p.wo_wins }} / {{ p.wo_losses }}</b></div>
+</div>
+
+{% if chart %}
+<h2>Vývoj ELO</h2>
+{{ chart|safe }}
+{% endif %}
+
+<h2>Zápasy</h2>
+<div class="table-wrap">
+<table>
+  <thead><tr><th>Kolo</th><th class="num hide-sm">Úroveň</th><th>Soupeř</th><th class="num">Výsledek</th><th class="num">Změna ELO</th></tr></thead>
+  <tbody>
+  {% for g in games %}
+  <tr>
+    <td>{{ g.round_label }}</td>
+    <td class="num hide-sm">{{ g.level }}{{ g.group }}</td>
+    <td class="name"><a href="{{ g.opp_file }}">{{ g.opp_name }}</a></td>
+    <td class="num {% if g.won %}up{% else %}down{% endif %}">{{ g.score }}</td>
+    <td class="num {% if g.delta > 0 %}up{% elif g.delta < 0 %}down{% endif %}">{% if g.walkover %}–{% else %}{% if g.delta > 0 %}+{% endif %}{{ g.delta|round|int }}{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

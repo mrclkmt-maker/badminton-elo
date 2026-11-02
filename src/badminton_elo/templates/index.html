@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}{{ site_name }}{% if all_players %} – všichni hráči{% endif %}{% endblock %}
+{% block content %}
+<h1>{% if all_players %}Všichni hráči{% else %}ELO žebříček{% endif %}</h1>
+<p class="muted">
+  {% if all_players %}
+    Všichni hráči s alespoň jedním odehraným zápasem od {{ first_round.month }}/{{ first_round.year }} ({{ players|length }} hráčů), včetně těch, kteří už nehrají.
+    <a href="index.html">Zpět na aktivní hráče</a>.
+  {% else %}
+    Hráči, kteří odehráli zápas v posledních {{ active_months }} měsících ({{ players|length }} hráčů).
+    Poslední započtené kolo: {{ last_round.label }}.
+    <a href="vsichni.html">Zobrazit všechny hráče</a>.
+  {% endif %}
+</p>
+<input class="search" type="search" id="q" placeholder="Hledat hráče…" autocomplete="off">
+<div class="table-wrap">
+<table id="t">
+  <thead><tr>
+    <th class="num">#</th><th>Hráč</th><th class="num">ELO</th><th class="num">Změna</th>
+    <th class="num">Zápasy</th><th class="num hide-sm">Výhry</th><th class="num">Úspěšnost</th>
+    <th class="num hide-sm">Úroveň</th><th class="hide-sm">Naposledy</th>
+  </tr></thead>
+  <tbody>
+  {% for p in players %}
+  <tr>
+    <td class="num">{{ loop.index }}</td>
+    <td class="name"><a href="hrac/{{ p.file }}">{{ p.name }}</a></td>
+    <td class="num"><b>{{ p.rating_int }}</b></td>
+    <td class="num {% if p.trend > 0 %}up{% elif p.trend < 0 %}down{% endif %}">{% if p.trend > 0 %}+{% endif %}{{ p.trend|round|int }}</td>
+    <td class="num">{{ p.matches }}</td>
+    <td class="num hide-sm">{{ p.wins }}</td>
+    <td class="num">{{ p.win_pct }} %</td>
+    <td class="num hide-sm">{{ p.last_level or "–" }}</td>
+    <td class="hide-sm">{{ p.last_label }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+<script>
+(function () {
+  var q = document.getElementById('q'), rows = document.querySelectorAll('#t tbody tr');
+  function norm(s) { return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+  q.addEventListener('input', function () {
+    var v = norm(q.value.trim());
+    rows.forEach(function (r) { r.style.display = (!v || norm(r.children[1].textContent).indexOf(v) >= 0) ? '' : 'none'; });
+  });
+})();
+</script>
+
+<section class="about" id="o-zebricku">
+<h2>O žebříčku</h2>
+<p>Žebříček počítá hodnocení ELO hráčů pražské badmintonové ligy na portálu
+<a href="https://www.vaseliga.cz/vysledky/badminton/praha">VAŠE LIGA</a> z veřejně zobrazených výsledků
+jednotlivých kol. Započteno je {{ n_rounds }} kol od {{ first_round.month }}/{{ first_round.year }}.
+Jde o neoficiální žebříček, který s provozovatelem ligy nijak nesouvisí.</p>
+<ul>
+  <li>Každý hráč začíná s hodnocením podle úrovně, ve které se v lize poprvé objevil:
+      {{ method.start }} + ({{ method.level_center }} − úroveň) × {{ method.level_step }}, tedy 1. úroveň {{ method.start + (method.level_center - 1) * method.level_step }} bodů,
+      23. úroveň {{ method.start + (method.level_center - 23) * method.level_step }} bodů.</li>
+  <li>Zápasy se zpracovávají po kolech. Portál neuvádí data zápasů, proto se v rámci jednoho kola počítá se vstupním hodnocením
+      z jeho začátku.</li>
+  <li>Koeficient K je {{ method.k_new }} pro prvních {{ method.k_new_matches }} hodnocených zápasů hráče, poté {{ method.k }}.</li>
+  <li>Změna hodnocení se násobí podle výsledku na sety: 3:0 × 1,0, 3:1 × 0,9, 3:2 × 0,8.</li>
+  <li>Skreče (nedostavení se k zápasu) se do hodnocení nezapočítávají, jen do statistik.</li>
+  <li>Hráči, kteří mají na portálu skryté jméno, mají jméno skryté i zde.</li>
+</ul>
+<p>Sloupec „Změna“ ukazuje posun hodnocení v posledním kole, které hráč odehrál. V hlavním žebříčku jsou hráči,
+kteří hráli v posledních {{ active_months }} měsících; ostatní najdete v seznamu všech hráčů.</p>
+</section>
+{% endblock %}

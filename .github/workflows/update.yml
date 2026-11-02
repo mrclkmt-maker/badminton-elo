@@ -1,0 +1,65 @@
+name: Update ranking and deploy
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 03:17 UTC (04:17 / 05:17 Prague time)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Download new results from vaseliga.cz
+        run: uv run python -X utf8 -m badminton_elo.scrape --from-year 2016 --refresh-latest 2
+
+      - name: Compute ELO
+        run: uv run python -X utf8 -m badminton_elo.elo
+
+      - name: Build site
+        run: uv run python -X utf8 -m badminton_elo.build_site
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no data changes"
+          else
+            git commit -m "Update results $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
