@@ -1,13 +1,14 @@
 # Badminton ELO Praha – handover
 
-Stav k 2. 11. 2026. Pro navazující práci (člověk i Claude).
+Stav k 2. 11. 2026 (večer, po prvním nasazení). Pro navazující práci (člověk i Claude).
 
 ## Co to je
 
 Neoficiální ELO žebříček hráčů badmintonové ligy VAŠE LIGA Praha
 (https://www.vaseliga.cz/vysledky/badminton/praha). Data se stahují z veřejných
 výsledkových stránek portálu, ELO se počítá lokálně, web je statický a běží na
-GitHub Pages. Majitel: Marcel (mrclkmt-maker), repozitář github.com/mrclkmt-maker/badminton-elo.
+GitHub Pages. Majitel: Marcel (mrclkmt-maker), veřejný repozitář github.com/mrclkmt-maker/badminton-elo,
+web https://mrclkmt-maker.github.io/badminton-elo/ (Pages zapnuto přes API, build_type workflow).
 
 Rozhodnutí Marcela (2. 11. 2026):
 - hosting GitHub Pages, později vlastní doména;
@@ -25,7 +26,7 @@ src/badminton_elo/build_site.py   generování webu (Jinja2) -> site/
 src/badminton_elo/templates/      base.html, index.html, player.html (CSS je v base.html)
 data/rounds.json                  seznam všech kol z rozbalovací nabídky portálu (id, label, rok, měsíc, pořadí)
 data/raw/<round_id>.json          skupiny, hráči a zápasy jednoho kola
-data/elo.json                     výsledek výpočtu (hráči, historie, zápasy) – generovaný, ale verzovaný
+data/elo.json                     výsledek výpočtu (hráči, historie, zápasy) – generovaný, NENÍ v gitu (19 MB, vzniká při každém běhu)
 .github/workflows/update.yml      denní aktualizace + nasazení na Pages
 ```
 
@@ -49,6 +50,9 @@ Python přes `uv` (`uv sync`, `uv run ...`). Na Windows spouštět s `python -X 
 - robots.txt zakazuje jen `/api/`. Stahujeme s prodlevou 0,5 s mezi požadavky; celé kolo ≈ 1 minuta,
   10 let historie ≈ 2 hodiny.
 - Kola 360 (březen-duben 2020) a 501 (říjen-prosinec 2020) mají v názvu rozsah měsíců; bere se první měsíc.
+  Kolo 501 je na portálu prázdné (covid), stažený soubor má 0 skupin.
+- Stav po prvním úplném stažení 2. 11. 2026: 122 kol, 2 129 hráčů, 48 190 hodnocených zápasů, 453 aktivních hráčů.
+  Průměrné ELO podle úrovně klesá monotónně (1. úroveň ≈ 2170, 23. úroveň ≈ 1140), což metodu rozumně potvrzuje.
 
 ## Metoda ELO (elo.py)
 
