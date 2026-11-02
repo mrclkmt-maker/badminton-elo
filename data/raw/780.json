@@ -1,0 +1,7335 @@
+{
+ "round": {
+  "id": 780,
+  "label": "Podzimní sezóna 2024 - 1. kolo (říjen)",
+  "year": 2024,
+  "month": 10,
+  "order": 172
+ },
+ "scraped": "2026-11-02",
+ "groups": [
+  {
+   "result_id": 0,
+   "group": "A",
+   "level": 1,
+   "title": "1. úroveň - 460 bodů",
+   "players": [
+    {
+     "id": "ales-kubik-i",
+     "name": "Aleš Kubík",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "498",
+     "sets": "12:3"
+    },
+    {
+     "id": "pavel-dvorak-b",
+     "name": "Pavel Dvořák",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "491",
+     "sets": "9:4"
+    },
+    {
+     "id": "jan-dvorak-10",
+     "name": "Jan Dvořák",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "476",
+     "sets": "9:7"
+    },
+    {
+     "id": "tomas-hribek",
+     "name": "Tomáš Hříbek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "466",
+     "sets": "5:9"
+    },
+    {
+     "id": "martin-nerad",
+     "name": "Martin Nerad",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "460",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "ales-kubik-i",
+     "b": "pavel-dvorak-b",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ales-kubik-i",
+     "walkover": false
+    },
+    {
+     "a": "ales-kubik-i",
+     "b": "jan-dvorak-10",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ales-kubik-i",
+     "walkover": false
+    },
+    {
+     "a": "ales-kubik-i",
+     "b": "tomas-hribek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ales-kubik-i",
+     "walkover": false
+    },
+    {
+     "a": "ales-kubik-i",
+     "b": "martin-nerad",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ales-kubik-i",
+     "walkover": true
+    },
+    {
+     "a": "pavel-dvorak-b",
+     "b": "jan-dvorak-10",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "pavel-dvorak-b",
+     "walkover": false
+    },
+    {
+     "a": "pavel-dvorak-b",
+     "b": "tomas-hribek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "pavel-dvorak-b",
+     "walkover": false
+    },
+    {
+     "a": "pavel-dvorak-b",
+     "b": "martin-nerad",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "pavel-dvorak-b",
+     "walkover": true
+    },
+    {
+     "a": "jan-dvorak-10",
+     "b": "tomas-hribek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-dvorak-10",
+     "walkover": false
+    },
+    {
+     "a": "jan-dvorak-10",
+     "b": "martin-nerad",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-dvorak-10",
+     "walkover": true
+    },
+    {
+     "a": "tomas-hribek",
+     "b": "martin-nerad",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-hribek",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 1,
+   "group": "A",
+   "level": 2,
+   "title": "2. úroveň - 440 bodů",
+   "players": [
+    {
+     "id": "jakub-moravec",
+     "name": "Jakub Moravec",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "476",
+     "sets": "11:6"
+    },
+    {
+     "id": "peter-cincula-l",
+     "name": "Peter Cincula",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "471",
+     "sets": "11:7"
+    },
+    {
+     "id": "miloslav-skalicky",
+     "name": "Miloslav Skalický",
+     "place": 3,
+     "points_matches": "6",
+     "points_place": "12",
+     "points_total": "458",
+     "sets": "10:5"
+    },
+    {
+     "id": "milan-kolar",
+     "name": "Milan Kolář",
+     "place": 4,
+     "points_matches": "0",
+     "points_place": "4",
+     "points_total": "444",
+     "sets": "3:12"
+    },
+    {
+     "id": "petr-dolecek",
+     "name": "Petr Doleček",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "440",
+     "sets": "1:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jakub-moravec",
+     "b": "peter-cincula-l",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "peter-cincula-l",
+     "walkover": false
+    },
+    {
+     "a": "jakub-moravec",
+     "b": "miloslav-skalicky",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-moravec",
+     "walkover": false
+    },
+    {
+     "a": "jakub-moravec",
+     "b": "milan-kolar",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-moravec",
+     "walkover": false
+    },
+    {
+     "a": "jakub-moravec",
+     "b": "petr-dolecek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-moravec",
+     "walkover": false
+    },
+    {
+     "a": "peter-cincula-l",
+     "b": "miloslav-skalicky",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "miloslav-skalicky",
+     "walkover": false
+    },
+    {
+     "a": "peter-cincula-l",
+     "b": "milan-kolar",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "peter-cincula-l",
+     "walkover": false
+    },
+    {
+     "a": "peter-cincula-l",
+     "b": "petr-dolecek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "peter-cincula-l",
+     "walkover": false
+    },
+    {
+     "a": "miloslav-skalicky",
+     "b": "milan-kolar",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miloslav-skalicky",
+     "walkover": false
+    },
+    {
+     "a": "miloslav-skalicky",
+     "b": "petr-dolecek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miloslav-skalicky",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 2,
+   "group": "A",
+   "level": 3,
+   "title": "3. úroveň A - 420 bodů",
+   "players": [
+    {
+     "id": "runar-hauffen",
+     "name": "Runar Hauffen",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "456",
+     "sets": "11:8"
+    },
+    {
+     "id": "michal-janotka",
+     "name": "Michal Janotka",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "451",
+     "sets": "11:8"
+    },
+    {
+     "id": "daniel-bukovsky",
+     "name": "Daniel Bukovský",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "436",
+     "sets": "9:8"
+    },
+    {
+     "id": "juraj-matias",
+     "name": "Juraj Matias",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "426",
+     "sets": "5:11"
+    },
+    {
+     "id": "vita-matousek",
+     "name": "Víťa Matoušek",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "422",
+     "sets": "9:10"
+    }
+   ],
+   "matches": [
+    {
+     "a": "runar-hauffen",
+     "b": "michal-janotka",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "runar-hauffen",
+     "walkover": false
+    },
+    {
+     "a": "runar-hauffen",
+     "b": "daniel-bukovsky",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "daniel-bukovsky",
+     "walkover": false
+    },
+    {
+     "a": "runar-hauffen",
+     "b": "juraj-matias",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "runar-hauffen",
+     "walkover": false
+    },
+    {
+     "a": "runar-hauffen",
+     "b": "vita-matousek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "runar-hauffen",
+     "walkover": false
+    },
+    {
+     "a": "michal-janotka",
+     "b": "daniel-bukovsky",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michal-janotka",
+     "walkover": false
+    },
+    {
+     "a": "michal-janotka",
+     "b": "juraj-matias",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-janotka",
+     "walkover": false
+    },
+    {
+     "a": "michal-janotka",
+     "b": "vita-matousek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michal-janotka",
+     "walkover": false
+    },
+    {
+     "a": "daniel-bukovsky",
+     "b": "juraj-matias",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "daniel-bukovsky",
+     "walkover": false
+    },
+    {
+     "a": "daniel-bukovsky",
+     "b": "vita-matousek",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "vita-matousek",
+     "walkover": false
+    },
+    {
+     "a": "juraj-matias",
+     "b": "vita-matousek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "juraj-matias",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 3,
+   "group": "A",
+   "level": 4,
+   "title": "4. úroveň A - 400 bodů",
+   "players": [
+    {
+     "id": "kapil-vasudev",
+     "name": "Kapil Vasudev",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "436",
+     "sets": "9:6"
+    },
+    {
+     "id": "siegfried-ulrich",
+     "name": "Siegfried Ulrich",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "431",
+     "sets": "11:7"
+    },
+    {
+     "id": "jan-snovicky",
+     "name": "Jan Snovický",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "416",
+     "sets": "9:7"
+    },
+    {
+     "id": "jan-rys",
+     "name": "Jan Rys",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "406",
+     "sets": "6:9"
+    },
+    {
+     "id": "ales-severa",
+     "name": "Ales Severa",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "402",
+     "sets": "3:9"
+    }
+   ],
+   "matches": [
+    {
+     "a": "kapil-vasudev",
+     "b": "siegfried-ulrich",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "kapil-vasudev",
+     "walkover": false
+    },
+    {
+     "a": "kapil-vasudev",
+     "b": "jan-snovicky",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "kapil-vasudev",
+     "walkover": false
+    },
+    {
+     "a": "kapil-vasudev",
+     "b": "jan-rys",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "kapil-vasudev",
+     "walkover": false
+    },
+    {
+     "a": "kapil-vasudev",
+     "b": "ales-severa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ales-severa",
+     "walkover": true
+    },
+    {
+     "a": "siegfried-ulrich",
+     "b": "jan-snovicky",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "siegfried-ulrich",
+     "walkover": false
+    },
+    {
+     "a": "siegfried-ulrich",
+     "b": "jan-rys",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "siegfried-ulrich",
+     "walkover": false
+    },
+    {
+     "a": "siegfried-ulrich",
+     "b": "ales-severa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "siegfried-ulrich",
+     "walkover": true
+    },
+    {
+     "a": "jan-snovicky",
+     "b": "jan-rys",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-snovicky",
+     "walkover": false
+    },
+    {
+     "a": "jan-snovicky",
+     "b": "ales-severa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-snovicky",
+     "walkover": true
+    },
+    {
+     "a": "jan-rys",
+     "b": "ales-severa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-rys",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 3,
+   "group": "B",
+   "level": 4,
+   "title": "4. úroveň B - 400 bodů",
+   "players": [
+    {
+     "id": "42112",
+     "name": "Z***** K*****",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "438",
+     "sets": "12:1"
+    },
+    {
+     "id": "michal-kubes",
+     "name": "Michal Kubes",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "429",
+     "sets": "9:9"
+    },
+    {
+     "id": "zdenek-rojka",
+     "name": "Zdeněk Rojka",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "416",
+     "sets": "8:9"
+    },
+    {
+     "id": "patrik-fafek",
+     "name": "Patrik Fafek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "406",
+     "sets": "6:9"
+    },
+    {
+     "id": "vladimir-zak-1",
+     "name": "Vladimír Žák",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "402",
+     "sets": "4:11"
+    }
+   ],
+   "matches": [
+    {
+     "a": "42112",
+     "b": "michal-kubes",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "42112",
+     "walkover": false
+    },
+    {
+     "a": "42112",
+     "b": "zdenek-rojka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "42112",
+     "walkover": false
+    },
+    {
+     "a": "42112",
+     "b": "patrik-fafek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "42112",
+     "walkover": false
+    },
+    {
+     "a": "42112",
+     "b": "vladimir-zak-1",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "42112",
+     "walkover": true
+    },
+    {
+     "a": "michal-kubes",
+     "b": "zdenek-rojka",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michal-kubes",
+     "walkover": false
+    },
+    {
+     "a": "michal-kubes",
+     "b": "patrik-fafek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-kubes",
+     "walkover": false
+    },
+    {
+     "a": "michal-kubes",
+     "b": "vladimir-zak-1",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "vladimir-zak-1",
+     "walkover": false
+    },
+    {
+     "a": "zdenek-rojka",
+     "b": "patrik-fafek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "zdenek-rojka",
+     "walkover": false
+    },
+    {
+     "a": "zdenek-rojka",
+     "b": "vladimir-zak-1",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "zdenek-rojka",
+     "walkover": false
+    },
+    {
+     "a": "patrik-fafek",
+     "b": "vladimir-zak-1",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "patrik-fafek",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 4,
+   "group": "A",
+   "level": 5,
+   "title": "5. úroveň A - 380 bodů",
+   "players": [
+    {
+     "id": "igor-senaj",
+     "name": "Igor Senaj",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "418",
+     "sets": "12:0"
+    },
+    {
+     "id": "dan-stepanek",
+     "name": "Dan Štěpánek",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "411",
+     "sets": "9:5"
+    },
+    {
+     "id": "ladislav-slanik",
+     "name": "Ladislav Slaník",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "396",
+     "sets": "6:9"
+    },
+    {
+     "id": "jiri-svejda",
+     "name": "Jiří Švejda",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "386",
+     "sets": "4:10"
+    },
+    {
+     "id": "lukas-bedecs",
+     "name": "Lukáš Bedecs",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "380",
+     "sets": "5:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "igor-senaj",
+     "b": "dan-stepanek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "igor-senaj",
+     "walkover": false
+    },
+    {
+     "a": "igor-senaj",
+     "b": "ladislav-slanik",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "igor-senaj",
+     "walkover": false
+    },
+    {
+     "a": "igor-senaj",
+     "b": "jiri-svejda",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "igor-senaj",
+     "walkover": true
+    },
+    {
+     "a": "igor-senaj",
+     "b": "lukas-bedecs",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "igor-senaj",
+     "walkover": false
+    },
+    {
+     "a": "dan-stepanek",
+     "b": "ladislav-slanik",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "dan-stepanek",
+     "walkover": true
+    },
+    {
+     "a": "dan-stepanek",
+     "b": "jiri-svejda",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "dan-stepanek",
+     "walkover": false
+    },
+    {
+     "a": "dan-stepanek",
+     "b": "lukas-bedecs",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "dan-stepanek",
+     "walkover": false
+    },
+    {
+     "a": "ladislav-slanik",
+     "b": "jiri-svejda",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ladislav-slanik",
+     "walkover": false
+    },
+    {
+     "a": "ladislav-slanik",
+     "b": "lukas-bedecs",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ladislav-slanik",
+     "walkover": false
+    },
+    {
+     "a": "jiri-svejda",
+     "b": "lukas-bedecs",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jiri-svejda",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 4,
+   "group": "B",
+   "level": 5,
+   "title": "5. úroveň B - 380 bodů",
+   "players": [
+    {
+     "id": "martin-kubu-l",
+     "name": "Martin Kubů",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "416",
+     "sets": "9:3"
+    },
+    {
+     "id": "jiri-olejnicek",
+     "name": "Jiří Olejníček",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "411",
+     "sets": "9:3"
+    },
+    {
+     "id": "vojtech-volf",
+     "name": "Vojtech Volf",
+     "place": 3,
+     "points_matches": "6",
+     "points_place": "12",
+     "points_total": "398",
+     "sets": "9:5"
+    },
+    {
+     "id": "petr-holy",
+     "name": "Petr Holý",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "386",
+     "sets": "5:9"
+    },
+    {
+     "id": "jan-novak-n",
+     "name": "Jan Novak",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "380",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "martin-kubu-l",
+     "b": "jiri-olejnicek",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "jiri-olejnicek",
+     "walkover": false
+    },
+    {
+     "a": "martin-kubu-l",
+     "b": "vojtech-volf",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-kubu-l",
+     "walkover": false
+    },
+    {
+     "a": "martin-kubu-l",
+     "b": "petr-holy",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-kubu-l",
+     "walkover": false
+    },
+    {
+     "a": "martin-kubu-l",
+     "b": "jan-novak-n",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-kubu-l",
+     "walkover": true
+    },
+    {
+     "a": "jiri-olejnicek",
+     "b": "vojtech-volf",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "vojtech-volf",
+     "walkover": false
+    },
+    {
+     "a": "jiri-olejnicek",
+     "b": "petr-holy",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jiri-olejnicek",
+     "walkover": false
+    },
+    {
+     "a": "jiri-olejnicek",
+     "b": "jan-novak-n",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jiri-olejnicek",
+     "walkover": true
+    },
+    {
+     "a": "vojtech-volf",
+     "b": "petr-holy",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "vojtech-volf",
+     "walkover": false
+    },
+    {
+     "a": "vojtech-volf",
+     "b": "jan-novak-n",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "vojtech-volf",
+     "walkover": true
+    },
+    {
+     "a": "petr-holy",
+     "b": "jan-novak-n",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "petr-holy",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 5,
+   "group": "A",
+   "level": 6,
+   "title": "6. úroveň A - 360 bodů",
+   "players": [
+    {
+     "id": "robert-kubin-1",
+     "name": "Robert Kubín",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "398",
+     "sets": "12:1"
+    },
+    {
+     "id": "jan-lubenik",
+     "name": "Jan Lubeník",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "389",
+     "sets": "8:7"
+    },
+    {
+     "id": "daniel-janoch",
+     "name": "Daniel Janoch",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "376",
+     "sets": "7:7"
+    },
+    {
+     "id": "michal-peca",
+     "name": "Michal Peca",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "368",
+     "sets": "7:8"
+    },
+    {
+     "id": "utkir-amrillaev",
+     "name": "Utkir Amrillaev",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "360",
+     "sets": "1:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "robert-kubin-1",
+     "b": "jan-lubenik",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "robert-kubin-1",
+     "walkover": false
+    },
+    {
+     "a": "robert-kubin-1",
+     "b": "daniel-janoch",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "robert-kubin-1",
+     "walkover": false
+    },
+    {
+     "a": "robert-kubin-1",
+     "b": "michal-peca",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "robert-kubin-1",
+     "walkover": false
+    },
+    {
+     "a": "robert-kubin-1",
+     "b": "utkir-amrillaev",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "robert-kubin-1",
+     "walkover": false
+    },
+    {
+     "a": "jan-lubenik",
+     "b": "daniel-janoch",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-lubenik",
+     "walkover": false
+    },
+    {
+     "a": "jan-lubenik",
+     "b": "michal-peca",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "michal-peca",
+     "walkover": false
+    },
+    {
+     "a": "jan-lubenik",
+     "b": "utkir-amrillaev",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-lubenik",
+     "walkover": true
+    },
+    {
+     "a": "daniel-janoch",
+     "b": "michal-peca",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "daniel-janoch",
+     "walkover": false
+    },
+    {
+     "a": "daniel-janoch",
+     "b": "utkir-amrillaev",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "daniel-janoch",
+     "walkover": false
+    },
+    {
+     "a": "michal-peca",
+     "b": "utkir-amrillaev",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-peca",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 5,
+   "group": "B",
+   "level": 6,
+   "title": "6. úroveň B - 360 bodů",
+   "players": [
+    {
+     "id": "lukas-podbehly",
+     "name": "Lukas Podbehly",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "396",
+     "sets": "10:5"
+    },
+    {
+     "id": "ladislav-navratil",
+     "name": "Ladislav Navrátil",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "391",
+     "sets": "9:4"
+    },
+    {
+     "id": "23042",
+     "name": "S***** Š******",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "376",
+     "sets": "9:7"
+    },
+    {
+     "id": "filip-rysl",
+     "name": "Filip Rysl",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "368",
+     "sets": "7:9"
+    },
+    {
+     "id": "petr-kozak-1",
+     "name": "Petr Kozák",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "360",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "lukas-podbehly",
+     "b": "ladislav-navratil",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "lukas-podbehly",
+     "walkover": false
+    },
+    {
+     "a": "lukas-podbehly",
+     "b": "23042",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "lukas-podbehly",
+     "walkover": false
+    },
+    {
+     "a": "lukas-podbehly",
+     "b": "filip-rysl",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "filip-rysl",
+     "walkover": false
+    },
+    {
+     "a": "lukas-podbehly",
+     "b": "petr-kozak-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "lukas-podbehly",
+     "walkover": false
+    },
+    {
+     "a": "ladislav-navratil",
+     "b": "23042",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ladislav-navratil",
+     "walkover": false
+    },
+    {
+     "a": "ladislav-navratil",
+     "b": "filip-rysl",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ladislav-navratil",
+     "walkover": false
+    },
+    {
+     "a": "ladislav-navratil",
+     "b": "petr-kozak-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ladislav-navratil",
+     "walkover": false
+    },
+    {
+     "a": "23042",
+     "b": "filip-rysl",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "23042",
+     "walkover": false
+    },
+    {
+     "a": "23042",
+     "b": "petr-kozak-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "23042",
+     "walkover": false
+    },
+    {
+     "a": "filip-rysl",
+     "b": "petr-kozak-1",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "filip-rysl",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 6,
+   "group": "A",
+   "level": 7,
+   "title": "7. úroveň A - 340 bodů",
+   "players": [
+    {
+     "id": "pavel-barkac-l",
+     "name": "Pavel Barkáč",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "376",
+     "sets": "11:4"
+    },
+    {
+     "id": "vit-budar",
+     "name": "Vít Budař",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "371",
+     "sets": "9:7"
+    },
+    {
+     "id": "marek-necas-1",
+     "name": "Marek Nečas",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "356",
+     "sets": "8:10"
+    },
+    {
+     "id": "katerina-kasparova",
+     "name": "Kateřina Kašparová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "346",
+     "sets": "6:9"
+    },
+    {
+     "id": "martin-zima-m",
+     "name": "Martin Zima",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "342",
+     "sets": "7:11"
+    }
+   ],
+   "matches": [
+    {
+     "a": "pavel-barkac-l",
+     "b": "vit-budar",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "pavel-barkac-l",
+     "walkover": false
+    },
+    {
+     "a": "pavel-barkac-l",
+     "b": "marek-necas-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "pavel-barkac-l",
+     "walkover": false
+    },
+    {
+     "a": "pavel-barkac-l",
+     "b": "katerina-kasparova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "pavel-barkac-l",
+     "walkover": false
+    },
+    {
+     "a": "pavel-barkac-l",
+     "b": "martin-zima-m",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "martin-zima-m",
+     "walkover": false
+    },
+    {
+     "a": "vit-budar",
+     "b": "marek-necas-1",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "vit-budar",
+     "walkover": false
+    },
+    {
+     "a": "vit-budar",
+     "b": "katerina-kasparova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vit-budar",
+     "walkover": false
+    },
+    {
+     "a": "vit-budar",
+     "b": "martin-zima-m",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "vit-budar",
+     "walkover": false
+    },
+    {
+     "a": "marek-necas-1",
+     "b": "katerina-kasparova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "marek-necas-1",
+     "walkover": false
+    },
+    {
+     "a": "marek-necas-1",
+     "b": "martin-zima-m",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "marek-necas-1",
+     "walkover": false
+    },
+    {
+     "a": "katerina-kasparova",
+     "b": "martin-zima-m",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "katerina-kasparova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 6,
+   "group": "B",
+   "level": 7,
+   "title": "7. úroveň B - 340 bodů",
+   "players": [
+    {
+     "id": "jakub-zika-p",
+     "name": "Jakub Zíka",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "378",
+     "sets": "12:1"
+    },
+    {
+     "id": "12421",
+     "name": "V**** L*****",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "371",
+     "sets": "9:5"
+    },
+    {
+     "id": "martin-mastalir",
+     "name": "Martin Mastalir",
+     "place": 3,
+     "points_matches": "2",
+     "points_place": "12",
+     "points_total": "354",
+     "sets": "4:9"
+    },
+    {
+     "id": "martin-drbohlav-v",
+     "name": "Martin Drbohlav",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "346",
+     "sets": "4:9"
+    },
+    {
+     "id": "vojtech-krnansky",
+     "name": "Vojtěch Krňanský",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "340",
+     "sets": "1:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jakub-zika-p",
+     "b": "12421",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-zika-p",
+     "walkover": false
+    },
+    {
+     "a": "jakub-zika-p",
+     "b": "martin-mastalir",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-zika-p",
+     "walkover": false
+    },
+    {
+     "a": "jakub-zika-p",
+     "b": "martin-drbohlav-v",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-zika-p",
+     "walkover": false
+    },
+    {
+     "a": "jakub-zika-p",
+     "b": "vojtech-krnansky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jakub-zika-p",
+     "walkover": true
+    },
+    {
+     "a": "12421",
+     "b": "martin-mastalir",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "12421",
+     "walkover": true
+    },
+    {
+     "a": "12421",
+     "b": "martin-drbohlav-v",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "12421",
+     "walkover": false
+    },
+    {
+     "a": "12421",
+     "b": "vojtech-krnansky",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "12421",
+     "walkover": false
+    },
+    {
+     "a": "martin-mastalir",
+     "b": "vojtech-krnansky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-mastalir",
+     "walkover": true
+    },
+    {
+     "a": "martin-drbohlav-v",
+     "b": "vojtech-krnansky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-drbohlav-v",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 6,
+   "group": "C",
+   "level": 7,
+   "title": "7. úroveň C - 340 bodů",
+   "players": [
+    {
+     "id": "antonin-fulka-p",
+     "name": "Antonin Fulka",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "376",
+     "sets": "9:7"
+    },
+    {
+     "id": "robert-rosenberg",
+     "name": "Robert Rosenberg",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "371",
+     "sets": "11:6"
+    },
+    {
+     "id": "marcel-kmet-z",
+     "name": "Marcel Kmet",
+     "place": 3,
+     "points_matches": "2",
+     "points_place": "12",
+     "points_total": "354",
+     "sets": "7:10"
+    },
+    {
+     "id": "zdenek-culek",
+     "name": "Zdeněk Culek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "346",
+     "sets": "3:9"
+    },
+    {
+     "id": "ales-masek",
+     "name": "Aleš Mašek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "340",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "antonin-fulka-p",
+     "b": "robert-rosenberg",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "antonin-fulka-p",
+     "walkover": false
+    },
+    {
+     "a": "antonin-fulka-p",
+     "b": "marcel-kmet-z",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "antonin-fulka-p",
+     "walkover": false
+    },
+    {
+     "a": "antonin-fulka-p",
+     "b": "zdenek-culek",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "zdenek-culek",
+     "walkover": false
+    },
+    {
+     "a": "antonin-fulka-p",
+     "b": "ales-masek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "antonin-fulka-p",
+     "walkover": false
+    },
+    {
+     "a": "robert-rosenberg",
+     "b": "marcel-kmet-z",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "robert-rosenberg",
+     "walkover": false
+    },
+    {
+     "a": "robert-rosenberg",
+     "b": "zdenek-culek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "robert-rosenberg",
+     "walkover": true
+    },
+    {
+     "a": "robert-rosenberg",
+     "b": "ales-masek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "robert-rosenberg",
+     "walkover": false
+    },
+    {
+     "a": "marcel-kmet-z",
+     "b": "ales-masek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "marcel-kmet-z",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 7,
+   "group": "A",
+   "level": 8,
+   "title": "8. úroveň A - 320 bodů",
+   "players": [
+    {
+     "id": "martin-kucera-w",
+     "name": "Martin Kučera",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "358",
+     "sets": "12:3"
+    },
+    {
+     "id": "martin-trojan",
+     "name": "Martin Trojan",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "351",
+     "sets": "9:6"
+    },
+    {
+     "id": "pavel-halatek",
+     "name": "Pavel Halátek",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "336",
+     "sets": "8:8"
+    },
+    {
+     "id": "michal-cepek",
+     "name": "Michal Čepek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "326",
+     "sets": "7:9"
+    },
+    {
+     "id": "iva-hackl",
+     "name": "Iva Hackl",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "320",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "martin-kucera-w",
+     "b": "martin-trojan",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-kucera-w",
+     "walkover": false
+    },
+    {
+     "a": "martin-kucera-w",
+     "b": "pavel-halatek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "martin-kucera-w",
+     "walkover": false
+    },
+    {
+     "a": "martin-kucera-w",
+     "b": "michal-cepek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-kucera-w",
+     "walkover": false
+    },
+    {
+     "a": "martin-kucera-w",
+     "b": "iva-hackl",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-kucera-w",
+     "walkover": false
+    },
+    {
+     "a": "martin-trojan",
+     "b": "pavel-halatek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-trojan",
+     "walkover": false
+    },
+    {
+     "a": "martin-trojan",
+     "b": "michal-cepek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "martin-trojan",
+     "walkover": false
+    },
+    {
+     "a": "martin-trojan",
+     "b": "iva-hackl",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-trojan",
+     "walkover": false
+    },
+    {
+     "a": "pavel-halatek",
+     "b": "michal-cepek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "pavel-halatek",
+     "walkover": false
+    },
+    {
+     "a": "pavel-halatek",
+     "b": "iva-hackl",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "pavel-halatek",
+     "walkover": false
+    },
+    {
+     "a": "michal-cepek",
+     "b": "iva-hackl",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michal-cepek",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 7,
+   "group": "B",
+   "level": 8,
+   "title": "8. úroveň B - 320 bodů",
+   "players": [
+    {
+     "id": "adrian-kristof",
+     "name": "Adrián Krištof",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "356",
+     "sets": "9:6"
+    },
+    {
+     "id": "martin-toman",
+     "name": "Martin Toman",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "351",
+     "sets": "11:3"
+    },
+    {
+     "id": "ondrej-hoznour",
+     "name": "Ondřej Hoznour",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "336",
+     "sets": "7:6"
+    },
+    {
+     "id": "katerina-gorissen",
+     "name": "Kateřina Gorissen",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "328",
+     "sets": "6:6"
+    },
+    {
+     "id": "jiri-smejkal-d",
+     "name": "Jiří Šmejkal",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "320",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "adrian-kristof",
+     "b": "martin-toman",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "adrian-kristof",
+     "walkover": false
+    },
+    {
+     "a": "adrian-kristof",
+     "b": "ondrej-hoznour",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "adrian-kristof",
+     "walkover": false
+    },
+    {
+     "a": "adrian-kristof",
+     "b": "katerina-gorissen",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "katerina-gorissen",
+     "walkover": false
+    },
+    {
+     "a": "adrian-kristof",
+     "b": "jiri-smejkal-d",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "adrian-kristof",
+     "walkover": false
+    },
+    {
+     "a": "martin-toman",
+     "b": "ondrej-hoznour",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-toman",
+     "walkover": false
+    },
+    {
+     "a": "martin-toman",
+     "b": "katerina-gorissen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-toman",
+     "walkover": true
+    },
+    {
+     "a": "martin-toman",
+     "b": "jiri-smejkal-d",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-toman",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-hoznour",
+     "b": "katerina-gorissen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ondrej-hoznour",
+     "walkover": true
+    },
+    {
+     "a": "ondrej-hoznour",
+     "b": "jiri-smejkal-d",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ondrej-hoznour",
+     "walkover": true
+    },
+    {
+     "a": "katerina-gorissen",
+     "b": "jiri-smejkal-d",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "katerina-gorissen",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 7,
+   "group": "C",
+   "level": 8,
+   "title": "8. úroveň C - 320 bodů",
+   "players": [
+    {
+     "id": "josef-kocian",
+     "name": "Josef Kocián",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "358",
+     "sets": "12:0"
+    },
+    {
+     "id": "libor-novak",
+     "name": "Libor Novak",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "349",
+     "sets": "8:6"
+    },
+    {
+     "id": "josef-dub",
+     "name": "Josef Dub",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "336",
+     "sets": "7:9"
+    },
+    {
+     "id": "46616",
+     "name": "S******** L****",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "328",
+     "sets": "6:7"
+    },
+    {
+     "id": "libor-kubanek",
+     "name": "Libor Kubánek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "320",
+     "sets": "1:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "josef-kocian",
+     "b": "libor-novak",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "josef-kocian",
+     "walkover": false
+    },
+    {
+     "a": "josef-kocian",
+     "b": "josef-dub",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "josef-kocian",
+     "walkover": false
+    },
+    {
+     "a": "josef-kocian",
+     "b": "46616",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "josef-kocian",
+     "walkover": false
+    },
+    {
+     "a": "josef-kocian",
+     "b": "libor-kubanek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "josef-kocian",
+     "walkover": false
+    },
+    {
+     "a": "libor-novak",
+     "b": "josef-dub",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "josef-dub",
+     "walkover": false
+    },
+    {
+     "a": "libor-novak",
+     "b": "46616",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "libor-novak",
+     "walkover": false
+    },
+    {
+     "a": "libor-novak",
+     "b": "libor-kubanek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "libor-novak",
+     "walkover": false
+    },
+    {
+     "a": "josef-dub",
+     "b": "46616",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "46616",
+     "walkover": false
+    },
+    {
+     "a": "josef-dub",
+     "b": "libor-kubanek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "josef-dub",
+     "walkover": false
+    },
+    {
+     "a": "46616",
+     "b": "libor-kubanek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "46616",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 8,
+   "group": "A",
+   "level": 9,
+   "title": "9. úroveň A - 300 bodů",
+   "players": [
+    {
+     "id": "martin-balak",
+     "name": "Martin Balák",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "338",
+     "sets": "12:4"
+    },
+    {
+     "id": "michal-duchacek",
+     "name": "Michal Ducháček",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "329",
+     "sets": "9:7"
+    },
+    {
+     "id": "tomas-tacheci",
+     "name": "Tomáš Tachecí",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "316",
+     "sets": "8:7"
+    },
+    {
+     "id": "ondrej-housar-y",
+     "name": "Ondřej Housar",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "308",
+     "sets": "8:7"
+    },
+    {
+     "id": "petr-hodonsky",
+     "name": "Petr Hodonský",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "300",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "martin-balak",
+     "b": "michal-duchacek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "martin-balak",
+     "walkover": false
+    },
+    {
+     "a": "martin-balak",
+     "b": "tomas-tacheci",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-balak",
+     "walkover": false
+    },
+    {
+     "a": "martin-balak",
+     "b": "ondrej-housar-y",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-balak",
+     "walkover": false
+    },
+    {
+     "a": "martin-balak",
+     "b": "petr-hodonsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-balak",
+     "walkover": true
+    },
+    {
+     "a": "michal-duchacek",
+     "b": "tomas-tacheci",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-duchacek",
+     "walkover": false
+    },
+    {
+     "a": "michal-duchacek",
+     "b": "ondrej-housar-y",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "ondrej-housar-y",
+     "walkover": false
+    },
+    {
+     "a": "michal-duchacek",
+     "b": "petr-hodonsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "michal-duchacek",
+     "walkover": true
+    },
+    {
+     "a": "tomas-tacheci",
+     "b": "ondrej-housar-y",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "tomas-tacheci",
+     "walkover": false
+    },
+    {
+     "a": "tomas-tacheci",
+     "b": "petr-hodonsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-tacheci",
+     "walkover": true
+    },
+    {
+     "a": "ondrej-housar-y",
+     "b": "petr-hodonsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ondrej-housar-y",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 8,
+   "group": "B",
+   "level": 9,
+   "title": "9. úroveň B - 300 bodů",
+   "players": [
+    {
+     "id": "dmitrij-lisnak",
+     "name": "Dmitrij Lisňak",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "338",
+     "sets": "12:4"
+    },
+    {
+     "id": "michal-geyer",
+     "name": "Michal Geyer",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "331",
+     "sets": "10:5"
+    },
+    {
+     "id": "jaroslav-fibichr-z",
+     "name": "Jaroslav Fibichr",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "316",
+     "sets": "7:9"
+    },
+    {
+     "id": "jakub-vilhelm",
+     "name": "Jakub Vilhelm",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "306",
+     "sets": "8:9"
+    },
+    {
+     "id": "jan-jezek-o",
+     "name": "Jan Ježek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "300",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "dmitrij-lisnak",
+     "b": "michal-geyer",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "dmitrij-lisnak",
+     "walkover": false
+    },
+    {
+     "a": "dmitrij-lisnak",
+     "b": "jaroslav-fibichr-z",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "dmitrij-lisnak",
+     "walkover": false
+    },
+    {
+     "a": "dmitrij-lisnak",
+     "b": "jakub-vilhelm",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "dmitrij-lisnak",
+     "walkover": false
+    },
+    {
+     "a": "dmitrij-lisnak",
+     "b": "jan-jezek-o",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "dmitrij-lisnak",
+     "walkover": false
+    },
+    {
+     "a": "michal-geyer",
+     "b": "jaroslav-fibichr-z",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-geyer",
+     "walkover": false
+    },
+    {
+     "a": "michal-geyer",
+     "b": "jakub-vilhelm",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-geyer",
+     "walkover": false
+    },
+    {
+     "a": "michal-geyer",
+     "b": "jan-jezek-o",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "michal-geyer",
+     "walkover": true
+    },
+    {
+     "a": "jaroslav-fibichr-z",
+     "b": "jakub-vilhelm",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jaroslav-fibichr-z",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-fibichr-z",
+     "b": "jan-jezek-o",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jaroslav-fibichr-z",
+     "walkover": false
+    },
+    {
+     "a": "jakub-vilhelm",
+     "b": "jan-jezek-o",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-vilhelm",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 8,
+   "group": "C",
+   "level": 9,
+   "title": "9. úroveň C - 300 bodů",
+   "players": [
+    {
+     "id": "jindrich-patera",
+     "name": "Jindřich Patera",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "338",
+     "sets": "12:0"
+    },
+    {
+     "id": "haji-ashumov",
+     "name": "Haji Ashumov",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "331",
+     "sets": "9:3"
+    },
+    {
+     "id": "richard-votik-u",
+     "name": "Richard Votík",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "316",
+     "sets": "6:7"
+    },
+    {
+     "id": "petr-slaich",
+     "name": "Petr Šlaich",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "306",
+     "sets": "4:9"
+    },
+    {
+     "id": "kamil-dunicka-1",
+     "name": "Kamil Dunička",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "300",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jindrich-patera",
+     "b": "haji-ashumov",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jindrich-patera",
+     "walkover": false
+    },
+    {
+     "a": "jindrich-patera",
+     "b": "richard-votik-u",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jindrich-patera",
+     "walkover": false
+    },
+    {
+     "a": "jindrich-patera",
+     "b": "petr-slaich",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jindrich-patera",
+     "walkover": false
+    },
+    {
+     "a": "jindrich-patera",
+     "b": "kamil-dunicka-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jindrich-patera",
+     "walkover": false
+    },
+    {
+     "a": "haji-ashumov",
+     "b": "richard-votik-u",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "haji-ashumov",
+     "walkover": false
+    },
+    {
+     "a": "haji-ashumov",
+     "b": "petr-slaich",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "haji-ashumov",
+     "walkover": true
+    },
+    {
+     "a": "haji-ashumov",
+     "b": "kamil-dunicka-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "haji-ashumov",
+     "walkover": false
+    },
+    {
+     "a": "richard-votik-u",
+     "b": "petr-slaich",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "richard-votik-u",
+     "walkover": false
+    },
+    {
+     "a": "richard-votik-u",
+     "b": "kamil-dunicka-1",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "richard-votik-u",
+     "walkover": true
+    },
+    {
+     "a": "petr-slaich",
+     "b": "kamil-dunicka-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-slaich",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 9,
+   "group": "A",
+   "level": 10,
+   "title": "10. úroveň A - 280 bodů",
+   "players": [
+    {
+     "id": "jakub-novak",
+     "name": "Jakub Novák",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "318",
+     "sets": "12:3"
+    },
+    {
+     "id": "michal-bartak",
+     "name": "Michal Barták",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "311",
+     "sets": "10:5"
+    },
+    {
+     "id": "lukas-machek",
+     "name": "Lukáš Machek",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "296",
+     "sets": "7:9"
+    },
+    {
+     "id": "lukas-pernicka",
+     "name": "Lukáš Pernička",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "286",
+     "sets": "6:10"
+    },
+    {
+     "id": "lukas-vobornik",
+     "name": "Lukáš Voborník",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "280",
+     "sets": "4:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jakub-novak",
+     "b": "michal-bartak",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-novak",
+     "walkover": false
+    },
+    {
+     "a": "jakub-novak",
+     "b": "lukas-machek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-novak",
+     "walkover": false
+    },
+    {
+     "a": "jakub-novak",
+     "b": "lukas-pernicka",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-novak",
+     "walkover": false
+    },
+    {
+     "a": "jakub-novak",
+     "b": "lukas-vobornik",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-novak",
+     "walkover": false
+    },
+    {
+     "a": "michal-bartak",
+     "b": "lukas-machek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michal-bartak",
+     "walkover": false
+    },
+    {
+     "a": "michal-bartak",
+     "b": "lukas-pernicka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michal-bartak",
+     "walkover": false
+    },
+    {
+     "a": "michal-bartak",
+     "b": "lukas-vobornik",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michal-bartak",
+     "walkover": false
+    },
+    {
+     "a": "lukas-machek",
+     "b": "lukas-pernicka",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "lukas-machek",
+     "walkover": false
+    },
+    {
+     "a": "lukas-machek",
+     "b": "lukas-vobornik",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lukas-machek",
+     "walkover": false
+    },
+    {
+     "a": "lukas-pernicka",
+     "b": "lukas-vobornik",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lukas-pernicka",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 9,
+   "group": "B",
+   "level": 10,
+   "title": "10. úroveň B - 280 bodů",
+   "players": [
+    {
+     "id": "arsh-arora",
+     "name": "Arsh Arora",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "316",
+     "sets": "9:3"
+    },
+    {
+     "id": "jan-vavrecka",
+     "name": "Jan Vavrečka",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "311",
+     "sets": "9:4"
+    },
+    {
+     "id": "petr-hlaves",
+     "name": "Petr Hlaveš",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "296",
+     "sets": "6:7"
+    },
+    {
+     "id": "martin-tichy-f",
+     "name": "Martin Tichý",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "286",
+     "sets": "4:9"
+    },
+    {
+     "id": "alexandra-voicu",
+     "name": "Alexandra Voicu",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "280",
+     "sets": "1:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "arsh-arora",
+     "b": "jan-vavrecka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "arsh-arora",
+     "walkover": false
+    },
+    {
+     "a": "arsh-arora",
+     "b": "martin-tichy-f",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "arsh-arora",
+     "walkover": false
+    },
+    {
+     "a": "arsh-arora",
+     "b": "alexandra-voicu",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "arsh-arora",
+     "walkover": false
+    },
+    {
+     "a": "jan-vavrecka",
+     "b": "petr-hlaves",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-vavrecka",
+     "walkover": false
+    },
+    {
+     "a": "jan-vavrecka",
+     "b": "martin-tichy-f",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-vavrecka",
+     "walkover": false
+    },
+    {
+     "a": "jan-vavrecka",
+     "b": "alexandra-voicu",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-vavrecka",
+     "walkover": false
+    },
+    {
+     "a": "petr-hlaves",
+     "b": "martin-tichy-f",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-hlaves",
+     "walkover": false
+    },
+    {
+     "a": "petr-hlaves",
+     "b": "alexandra-voicu",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-hlaves",
+     "walkover": false
+    },
+    {
+     "a": "martin-tichy-f",
+     "b": "alexandra-voicu",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-tichy-f",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 9,
+   "group": "C",
+   "level": 10,
+   "title": "10. úroveň C - 280 bodů",
+   "players": [
+    {
+     "id": "jakub-kopacek",
+     "name": "Jakub Kopáček",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "316",
+     "sets": "10:5"
+    },
+    {
+     "id": "mikhail-pashayev",
+     "name": "Mikhail Pashayev",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "311",
+     "sets": "10:5"
+    },
+    {
+     "id": "jiri-cenek",
+     "name": "Jiří Čeněk",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "296",
+     "sets": "9:7"
+    },
+    {
+     "id": "ondrej-pohan",
+     "name": "Ondrej Pohan",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "286",
+     "sets": "3:9"
+    },
+    {
+     "id": "martin-stanek-v",
+     "name": "Martin Staněk",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "282",
+     "sets": "4:10"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jakub-kopacek",
+     "b": "mikhail-pashayev",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-kopacek",
+     "walkover": false
+    },
+    {
+     "a": "jakub-kopacek",
+     "b": "jiri-cenek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-kopacek",
+     "walkover": false
+    },
+    {
+     "a": "jakub-kopacek",
+     "b": "ondrej-pohan",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-kopacek",
+     "walkover": false
+    },
+    {
+     "a": "jakub-kopacek",
+     "b": "martin-stanek-v",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "martin-stanek-v",
+     "walkover": false
+    },
+    {
+     "a": "mikhail-pashayev",
+     "b": "jiri-cenek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "mikhail-pashayev",
+     "walkover": false
+    },
+    {
+     "a": "mikhail-pashayev",
+     "b": "ondrej-pohan",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "mikhail-pashayev",
+     "walkover": false
+    },
+    {
+     "a": "mikhail-pashayev",
+     "b": "martin-stanek-v",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "mikhail-pashayev",
+     "walkover": false
+    },
+    {
+     "a": "jiri-cenek",
+     "b": "ondrej-pohan",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jiri-cenek",
+     "walkover": true
+    },
+    {
+     "a": "jiri-cenek",
+     "b": "martin-stanek-v",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jiri-cenek",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-pohan",
+     "b": "martin-stanek-v",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ondrej-pohan",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 10,
+   "group": "A",
+   "level": 11,
+   "title": "11. úroveň A - 260 bodů",
+   "players": [
+    {
+     "id": "mery-kejklicek-2",
+     "name": "Mery Kejklíček",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "296",
+     "sets": "9:3"
+    },
+    {
+     "id": "daniel-smrcka",
+     "name": "Daniel Smrčka",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "291",
+     "sets": "9:7"
+    },
+    {
+     "id": "ales-ulmajer",
+     "name": "Aleš Ulmajer",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "276",
+     "sets": "8:6"
+    },
+    {
+     "id": "igor-dragun",
+     "name": "Igor Dragun",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "266",
+     "sets": "5:10"
+    },
+    {
+     "id": "martina-suhajova",
+     "name": "Martina Šuhajová",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "260",
+     "sets": "1:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "mery-kejklicek-2",
+     "b": "daniel-smrcka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "mery-kejklicek-2",
+     "walkover": false
+    },
+    {
+     "a": "mery-kejklicek-2",
+     "b": "ales-ulmajer",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "mery-kejklicek-2",
+     "walkover": false
+    },
+    {
+     "a": "mery-kejklicek-2",
+     "b": "martina-suhajova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "mery-kejklicek-2",
+     "walkover": false
+    },
+    {
+     "a": "daniel-smrcka",
+     "b": "ales-ulmajer",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "daniel-smrcka",
+     "walkover": false
+    },
+    {
+     "a": "daniel-smrcka",
+     "b": "igor-dragun",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "daniel-smrcka",
+     "walkover": false
+    },
+    {
+     "a": "daniel-smrcka",
+     "b": "martina-suhajova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "daniel-smrcka",
+     "walkover": false
+    },
+    {
+     "a": "ales-ulmajer",
+     "b": "igor-dragun",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ales-ulmajer",
+     "walkover": false
+    },
+    {
+     "a": "ales-ulmajer",
+     "b": "martina-suhajova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ales-ulmajer",
+     "walkover": false
+    },
+    {
+     "a": "igor-dragun",
+     "b": "martina-suhajova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "igor-dragun",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 10,
+   "group": "B",
+   "level": 11,
+   "title": "11. úroveň B - 260 bodů",
+   "players": [
+    {
+     "id": "mykola-lebediev",
+     "name": "Mykola Lebediev",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "298",
+     "sets": "12:4"
+    },
+    {
+     "id": "michal-pribyl-t",
+     "name": "Michal Přibyl",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "291",
+     "sets": "10:5"
+    },
+    {
+     "id": "vit-cupal",
+     "name": "Vít Cupal",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "276",
+     "sets": "10:6"
+    },
+    {
+     "id": "jan-spratek",
+     "name": "Jan Spratek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "266",
+     "sets": "3:10"
+    },
+    {
+     "id": "adrien-chaillout",
+     "name": "Adrien CHAILLOUT",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "260",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "mykola-lebediev",
+     "b": "michal-pribyl-t",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "mykola-lebediev",
+     "walkover": false
+    },
+    {
+     "a": "mykola-lebediev",
+     "b": "vit-cupal",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "mykola-lebediev",
+     "walkover": false
+    },
+    {
+     "a": "mykola-lebediev",
+     "b": "jan-spratek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "mykola-lebediev",
+     "walkover": true
+    },
+    {
+     "a": "mykola-lebediev",
+     "b": "adrien-chaillout",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "mykola-lebediev",
+     "walkover": false
+    },
+    {
+     "a": "michal-pribyl-t",
+     "b": "vit-cupal",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michal-pribyl-t",
+     "walkover": false
+    },
+    {
+     "a": "michal-pribyl-t",
+     "b": "jan-spratek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "michal-pribyl-t",
+     "walkover": true
+    },
+    {
+     "a": "michal-pribyl-t",
+     "b": "adrien-chaillout",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michal-pribyl-t",
+     "walkover": false
+    },
+    {
+     "a": "vit-cupal",
+     "b": "jan-spratek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "vit-cupal",
+     "walkover": true
+    },
+    {
+     "a": "vit-cupal",
+     "b": "adrien-chaillout",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vit-cupal",
+     "walkover": false
+    },
+    {
+     "a": "jan-spratek",
+     "b": "adrien-chaillout",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-spratek",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 10,
+   "group": "C",
+   "level": 11,
+   "title": "11. úroveň C - 260 bodů",
+   "players": [
+    {
+     "id": "ondrej-bures-u",
+     "name": "Ondřej Bureš",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "296",
+     "sets": "11:6"
+    },
+    {
+     "id": "naveen-koshy-jacob-tharakan",
+     "name": "Naveen Koshy Jacob Tharakan",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "289",
+     "sets": "6:9"
+    },
+    {
+     "id": "tomas-hulle",
+     "name": "Tomas Hulle",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "276",
+     "sets": "9:8"
+    },
+    {
+     "id": "robert-kowalski",
+     "name": "Robert Kowalski",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "266",
+     "sets": "5:9"
+    },
+    {
+     "id": "tadeas-prenosil",
+     "name": "Tadeáš Přenosil",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "262",
+     "sets": "6:11"
+    }
+   ],
+   "matches": [
+    {
+     "a": "ondrej-bures-u",
+     "b": "naveen-koshy-jacob-tharakan",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ondrej-bures-u",
+     "walkover": true
+    },
+    {
+     "a": "ondrej-bures-u",
+     "b": "tomas-hulle",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "tomas-hulle",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-bures-u",
+     "b": "robert-kowalski",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ondrej-bures-u",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-bures-u",
+     "b": "tadeas-prenosil",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ondrej-bures-u",
+     "walkover": false
+    },
+    {
+     "a": "naveen-koshy-jacob-tharakan",
+     "b": "tomas-hulle",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "naveen-koshy-jacob-tharakan",
+     "walkover": false
+    },
+    {
+     "a": "naveen-koshy-jacob-tharakan",
+     "b": "tadeas-prenosil",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "naveen-koshy-jacob-tharakan",
+     "walkover": false
+    },
+    {
+     "a": "tomas-hulle",
+     "b": "robert-kowalski",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "tomas-hulle",
+     "walkover": false
+    },
+    {
+     "a": "tomas-hulle",
+     "b": "tadeas-prenosil",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "tadeas-prenosil",
+     "walkover": false
+    },
+    {
+     "a": "robert-kowalski",
+     "b": "tadeas-prenosil",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "robert-kowalski",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 11,
+   "group": "A",
+   "level": 12,
+   "title": "12. úroveň A - 240 bodů",
+   "players": [
+    {
+     "id": "katerina-kratochvilova",
+     "name": "Kateřina Kratochvílová",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "276",
+     "sets": "11:3"
+    },
+    {
+     "id": "ali-ahmad",
+     "name": "Ali Ahmad",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "269",
+     "sets": "8:7"
+    },
+    {
+     "id": "jan-provaznik-t",
+     "name": "Jan Provazník",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "256",
+     "sets": "9:10"
+    },
+    {
+     "id": "zdenek-opravil",
+     "name": "Zdeněk Opravil",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "248",
+     "sets": "7:8"
+    },
+    {
+     "id": "martin-dulak",
+     "name": "Martin Dulák",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "242",
+     "sets": "3:10"
+    }
+   ],
+   "matches": [
+    {
+     "a": "katerina-kratochvilova",
+     "b": "ali-ahmad",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "katerina-kratochvilova",
+     "walkover": false
+    },
+    {
+     "a": "katerina-kratochvilova",
+     "b": "jan-provaznik-t",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "jan-provaznik-t",
+     "walkover": false
+    },
+    {
+     "a": "katerina-kratochvilova",
+     "b": "zdenek-opravil",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "katerina-kratochvilova",
+     "walkover": false
+    },
+    {
+     "a": "katerina-kratochvilova",
+     "b": "martin-dulak",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "katerina-kratochvilova",
+     "walkover": true
+    },
+    {
+     "a": "ali-ahmad",
+     "b": "jan-provaznik-t",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "jan-provaznik-t",
+     "walkover": false
+    },
+    {
+     "a": "ali-ahmad",
+     "b": "zdenek-opravil",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ali-ahmad",
+     "walkover": false
+    },
+    {
+     "a": "ali-ahmad",
+     "b": "martin-dulak",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ali-ahmad",
+     "walkover": true
+    },
+    {
+     "a": "jan-provaznik-t",
+     "b": "zdenek-opravil",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "zdenek-opravil",
+     "walkover": false
+    },
+    {
+     "a": "jan-provaznik-t",
+     "b": "martin-dulak",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "martin-dulak",
+     "walkover": false
+    },
+    {
+     "a": "zdenek-opravil",
+     "b": "martin-dulak",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "zdenek-opravil",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 11,
+   "group": "B",
+   "level": 12,
+   "title": "12. úroveň B - 240 bodů",
+   "players": [
+    {
+     "id": "ronan-wordsworth",
+     "name": "Ronan Wordsworth",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "276",
+     "sets": "11:8"
+    },
+    {
+     "id": "chris-abu-dayeh-w",
+     "name": "Chris Abu Dayeh",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "271",
+     "sets": "11:7"
+    },
+    {
+     "id": "milena-jgerova",
+     "name": "Milena Jägerová",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "256",
+     "sets": "9:9"
+    },
+    {
+     "id": "matyas-cermak",
+     "name": "Matyáš Čermák",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "248",
+     "sets": "10:8"
+    },
+    {
+     "id": "martin-nepras-a",
+     "name": "Martin Nepraš",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "240",
+     "sets": "3:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "ronan-wordsworth",
+     "b": "chris-abu-dayeh-w",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ronan-wordsworth",
+     "walkover": false
+    },
+    {
+     "a": "ronan-wordsworth",
+     "b": "milena-jgerova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ronan-wordsworth",
+     "walkover": false
+    },
+    {
+     "a": "ronan-wordsworth",
+     "b": "matyas-cermak",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "matyas-cermak",
+     "walkover": false
+    },
+    {
+     "a": "ronan-wordsworth",
+     "b": "martin-nepras-a",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ronan-wordsworth",
+     "walkover": false
+    },
+    {
+     "a": "chris-abu-dayeh-w",
+     "b": "milena-jgerova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "chris-abu-dayeh-w",
+     "walkover": false
+    },
+    {
+     "a": "chris-abu-dayeh-w",
+     "b": "matyas-cermak",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "chris-abu-dayeh-w",
+     "walkover": false
+    },
+    {
+     "a": "chris-abu-dayeh-w",
+     "b": "martin-nepras-a",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "chris-abu-dayeh-w",
+     "walkover": false
+    },
+    {
+     "a": "milena-jgerova",
+     "b": "matyas-cermak",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "milena-jgerova",
+     "walkover": false
+    },
+    {
+     "a": "milena-jgerova",
+     "b": "martin-nepras-a",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "milena-jgerova",
+     "walkover": false
+    },
+    {
+     "a": "matyas-cermak",
+     "b": "martin-nepras-a",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "matyas-cermak",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 11,
+   "group": "C",
+   "level": 12,
+   "title": "12. úroveň C - 240 bodů",
+   "players": [
+    {
+     "id": "radek-fidrant",
+     "name": "Radek Fidrant",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "276",
+     "sets": "10:4"
+    },
+    {
+     "id": "lucie-kolesnikova",
+     "name": "Lucie Kolesniková",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "269",
+     "sets": "8:7"
+    },
+    {
+     "id": "jan-ondracek-1",
+     "name": "Jan Ondráček",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "256",
+     "sets": "9:8"
+    },
+    {
+     "id": "jan-puskar",
+     "name": "Ján Puškár",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "248",
+     "sets": "6:8"
+    },
+    {
+     "id": "daniel-mikulka",
+     "name": "Daniel Mikulka",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "240",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "radek-fidrant",
+     "b": "lucie-kolesnikova",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "lucie-kolesnikova",
+     "walkover": false
+    },
+    {
+     "a": "radek-fidrant",
+     "b": "jan-ondracek-1",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "radek-fidrant",
+     "walkover": false
+    },
+    {
+     "a": "radek-fidrant",
+     "b": "jan-puskar",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "radek-fidrant",
+     "walkover": false
+    },
+    {
+     "a": "radek-fidrant",
+     "b": "daniel-mikulka",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "radek-fidrant",
+     "walkover": true
+    },
+    {
+     "a": "lucie-kolesnikova",
+     "b": "jan-ondracek-1",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "jan-ondracek-1",
+     "walkover": false
+    },
+    {
+     "a": "lucie-kolesnikova",
+     "b": "jan-puskar",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "lucie-kolesnikova",
+     "walkover": false
+    },
+    {
+     "a": "jan-ondracek-1",
+     "b": "jan-puskar",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "jan-puskar",
+     "walkover": false
+    },
+    {
+     "a": "jan-ondracek-1",
+     "b": "daniel-mikulka",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-ondracek-1",
+     "walkover": true
+    },
+    {
+     "a": "jan-puskar",
+     "b": "daniel-mikulka",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-puskar",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 12,
+   "group": "A",
+   "level": 13,
+   "title": "13. úroveň A - 220 bodů",
+   "players": [
+    {
+     "id": "adel-salakh",
+     "name": "Adel Salakh",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "258",
+     "sets": "12:3"
+    },
+    {
+     "id": "martin-cikl",
+     "name": "Martin Čikl",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "251",
+     "sets": "9:4"
+    },
+    {
+     "id": "evzen-vacek-z",
+     "name": "Evžen Vacek",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "236",
+     "sets": "8:8"
+    },
+    {
+     "id": "hynek-solar-h",
+     "name": "Hynek Šolar",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "226",
+     "sets": "7:9"
+    },
+    {
+     "id": "petr-kupsa",
+     "name": "Petr Kupsa",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "220",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "adel-salakh",
+     "b": "martin-cikl",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "adel-salakh",
+     "walkover": false
+    },
+    {
+     "a": "adel-salakh",
+     "b": "evzen-vacek-z",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "adel-salakh",
+     "walkover": false
+    },
+    {
+     "a": "adel-salakh",
+     "b": "hynek-solar-h",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "adel-salakh",
+     "walkover": false
+    },
+    {
+     "a": "adel-salakh",
+     "b": "petr-kupsa",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "adel-salakh",
+     "walkover": false
+    },
+    {
+     "a": "martin-cikl",
+     "b": "evzen-vacek-z",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-cikl",
+     "walkover": false
+    },
+    {
+     "a": "martin-cikl",
+     "b": "hynek-solar-h",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-cikl",
+     "walkover": false
+    },
+    {
+     "a": "martin-cikl",
+     "b": "petr-kupsa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-cikl",
+     "walkover": true
+    },
+    {
+     "a": "evzen-vacek-z",
+     "b": "hynek-solar-h",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "evzen-vacek-z",
+     "walkover": false
+    },
+    {
+     "a": "evzen-vacek-z",
+     "b": "petr-kupsa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "evzen-vacek-z",
+     "walkover": true
+    },
+    {
+     "a": "hynek-solar-h",
+     "b": "petr-kupsa",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "hynek-solar-h",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 12,
+   "group": "B",
+   "level": 13,
+   "title": "13. úroveň B - 220 bodů",
+   "players": [
+    {
+     "id": "jaroslav-sedlacek",
+     "name": "Jaroslav Sedláček",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "256",
+     "sets": "9:5"
+    },
+    {
+     "id": "martin-fatura",
+     "name": "Martin Fatura",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "251",
+     "sets": "9:7"
+    },
+    {
+     "id": "josef-fictum",
+     "name": "Josef Fictum",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "236",
+     "sets": "9:7"
+    },
+    {
+     "id": "zdenek-sychra",
+     "name": "Zdeněk Sychra",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "226",
+     "sets": "7:9"
+    },
+    {
+     "id": "manh-hoang-nguyen",
+     "name": "Manh Hoang Nguyen",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "220",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jaroslav-sedlacek",
+     "b": "josef-fictum",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jaroslav-sedlacek",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-sedlacek",
+     "b": "zdenek-sychra",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jaroslav-sedlacek",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-sedlacek",
+     "b": "manh-hoang-nguyen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jaroslav-sedlacek",
+     "walkover": true
+    },
+    {
+     "a": "martin-fatura",
+     "b": "josef-fictum",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "martin-fatura",
+     "walkover": false
+    },
+    {
+     "a": "martin-fatura",
+     "b": "zdenek-sychra",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "martin-fatura",
+     "walkover": false
+    },
+    {
+     "a": "martin-fatura",
+     "b": "manh-hoang-nguyen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-fatura",
+     "walkover": true
+    },
+    {
+     "a": "josef-fictum",
+     "b": "zdenek-sychra",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "josef-fictum",
+     "walkover": false
+    },
+    {
+     "a": "josef-fictum",
+     "b": "manh-hoang-nguyen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "josef-fictum",
+     "walkover": true
+    },
+    {
+     "a": "zdenek-sychra",
+     "b": "manh-hoang-nguyen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "zdenek-sychra",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 12,
+   "group": "C",
+   "level": 13,
+   "title": "13. úroveň C - 220 bodů",
+   "players": [
+    {
+     "id": "44352",
+     "name": "L**** D*******",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "258",
+     "sets": "12:0"
+    },
+    {
+     "id": "jaroslav-klima",
+     "name": "Jaroslav Klíma",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "251",
+     "sets": "9:5"
+    },
+    {
+     "id": "jaroslav-solocha",
+     "name": "Jaroslav Solocha",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "236",
+     "sets": "8:8"
+    },
+    {
+     "id": "jozef-pupava",
+     "name": "Jozef Pupava",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "226",
+     "sets": "5:9"
+    },
+    {
+     "id": "miroslav-toman",
+     "name": "Miroslav Toman",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "220",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "44352",
+     "b": "jaroslav-klima",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "44352",
+     "walkover": false
+    },
+    {
+     "a": "44352",
+     "b": "jaroslav-solocha",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "44352",
+     "walkover": false
+    },
+    {
+     "a": "44352",
+     "b": "jozef-pupava",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "44352",
+     "walkover": false
+    },
+    {
+     "a": "44352",
+     "b": "miroslav-toman",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "44352",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-klima",
+     "b": "jaroslav-solocha",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jaroslav-klima",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-klima",
+     "b": "jozef-pupava",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jaroslav-klima",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-klima",
+     "b": "miroslav-toman",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jaroslav-klima",
+     "walkover": true
+    },
+    {
+     "a": "jaroslav-solocha",
+     "b": "jozef-pupava",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jaroslav-solocha",
+     "walkover": false
+    },
+    {
+     "a": "jaroslav-solocha",
+     "b": "miroslav-toman",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jaroslav-solocha",
+     "walkover": true
+    },
+    {
+     "a": "jozef-pupava",
+     "b": "miroslav-toman",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jozef-pupava",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 13,
+   "group": "A",
+   "level": 14,
+   "title": "14. úroveň A - 200 bodů",
+   "players": [
+    {
+     "id": "vojta-maly",
+     "name": "Vojta Malý",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "236",
+     "sets": "11:4"
+    },
+    {
+     "id": "petr-holman",
+     "name": "Petr Holman",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "229",
+     "sets": "9:7"
+    },
+    {
+     "id": "ondrej-fiala",
+     "name": "Ondřej Fiala",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "216",
+     "sets": "7:8"
+    },
+    {
+     "id": "kacka-holmanova",
+     "name": "Kačka Holmanová",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "208",
+     "sets": "7:10"
+    },
+    {
+     "id": "dominika-menclova",
+     "name": "Dominika Menclová",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "0",
+     "points_total": "202",
+     "sets": "4:9"
+    }
+   ],
+   "matches": [
+    {
+     "a": "vojta-maly",
+     "b": "petr-holman",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "vojta-maly",
+     "walkover": false
+    },
+    {
+     "a": "vojta-maly",
+     "b": "ondrej-fiala",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vojta-maly",
+     "walkover": false
+    },
+    {
+     "a": "vojta-maly",
+     "b": "kacka-holmanova",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "kacka-holmanova",
+     "walkover": false
+    },
+    {
+     "a": "vojta-maly",
+     "b": "dominika-menclova",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "vojta-maly",
+     "walkover": true
+    },
+    {
+     "a": "petr-holman",
+     "b": "ondrej-fiala",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-holman",
+     "walkover": false
+    },
+    {
+     "a": "petr-holman",
+     "b": "kacka-holmanova",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "kacka-holmanova",
+     "walkover": false
+    },
+    {
+     "a": "petr-holman",
+     "b": "dominika-menclova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-holman",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-fiala",
+     "b": "kacka-holmanova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ondrej-fiala",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-fiala",
+     "b": "dominika-menclova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ondrej-fiala",
+     "walkover": false
+    },
+    {
+     "a": "kacka-holmanova",
+     "b": "dominika-menclova",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "dominika-menclova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 13,
+   "group": "B",
+   "level": 14,
+   "title": "14. úroveň B - 200 bodů",
+   "players": [
+    {
+     "id": "jozef-barcak",
+     "name": "Jozef Barčák",
+     "place": 1,
+     "points_matches": "4",
+     "points_place": "30",
+     "points_total": "234",
+     "sets": "7:6"
+    },
+    {
+     "id": "jaroslav-mohila",
+     "name": "Jaroslav Mohila",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "229",
+     "sets": "6:7"
+    },
+    {
+     "id": "27091",
+     "name": "M**** Š*****",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "216",
+     "sets": "6:7"
+    },
+    {
+     "id": "vaclav-konas",
+     "name": "Václav Konáš",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "206",
+     "sets": "4:9"
+    },
+    {
+     "id": "martin-jelen",
+     "name": "Martin Jelen",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "200",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jozef-barcak",
+     "b": "jaroslav-mohila",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "jaroslav-mohila",
+     "walkover": false
+    },
+    {
+     "a": "jozef-barcak",
+     "b": "27091",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jozef-barcak",
+     "walkover": true
+    },
+    {
+     "a": "jozef-barcak",
+     "b": "vaclav-konas",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "vaclav-konas",
+     "walkover": false
+    },
+    {
+     "a": "jozef-barcak",
+     "b": "martin-jelen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jozef-barcak",
+     "walkover": true
+    },
+    {
+     "a": "jaroslav-mohila",
+     "b": "martin-jelen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jaroslav-mohila",
+     "walkover": true
+    },
+    {
+     "a": "27091",
+     "b": "vaclav-konas",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "27091",
+     "walkover": false
+    },
+    {
+     "a": "27091",
+     "b": "martin-jelen",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "27091",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 13,
+   "group": "C",
+   "level": 14,
+   "title": "14. úroveň C - 200 bodů",
+   "players": [
+    {
+     "id": "dominik-juda",
+     "name": "Dominik Jůda",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "236",
+     "sets": "9:5"
+    },
+    {
+     "id": "petr-castka",
+     "name": "Petr Částka",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "231",
+     "sets": "11:6"
+    },
+    {
+     "id": "radek-kokes",
+     "name": "Radek Kokeš",
+     "place": 3,
+     "points_matches": "2",
+     "points_place": "12",
+     "points_total": "214",
+     "sets": "5:11"
+    },
+    {
+     "id": "filip-ocasek",
+     "name": "Filip Ocásek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "206",
+     "sets": "4:11"
+    },
+    {
+     "id": "karel-medek",
+     "name": "Karel Medek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "200",
+     "sets": "4:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "dominik-juda",
+     "b": "petr-castka",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "dominik-juda",
+     "walkover": false
+    },
+    {
+     "a": "dominik-juda",
+     "b": "filip-ocasek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "dominik-juda",
+     "walkover": false
+    },
+    {
+     "a": "dominik-juda",
+     "b": "karel-medek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "dominik-juda",
+     "walkover": false
+    },
+    {
+     "a": "petr-castka",
+     "b": "radek-kokes",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "petr-castka",
+     "walkover": false
+    },
+    {
+     "a": "petr-castka",
+     "b": "filip-ocasek",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-castka",
+     "walkover": false
+    },
+    {
+     "a": "petr-castka",
+     "b": "karel-medek",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-castka",
+     "walkover": false
+    },
+    {
+     "a": "radek-kokes",
+     "b": "karel-medek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "radek-kokes",
+     "walkover": false
+    },
+    {
+     "a": "filip-ocasek",
+     "b": "karel-medek",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "filip-ocasek",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 14,
+   "group": "A",
+   "level": 15,
+   "title": "15. úroveň A - 180 bodů",
+   "players": [
+    {
+     "id": "tomas-mattern",
+     "name": "Tomáš Mattern",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "218",
+     "sets": "12:1"
+    },
+    {
+     "id": "martin-skapa-b",
+     "name": "Martin Skapa",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "211",
+     "sets": "9:4"
+    },
+    {
+     "id": "jan-bina",
+     "name": "Jan Bína",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "196",
+     "sets": "8:6"
+    },
+    {
+     "id": "sara-schwarzenbachova",
+     "name": "Sára Schwarzenbachová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "186",
+     "sets": "3:9"
+    },
+    {
+     "id": "michal-kubina",
+     "name": "Michal Kubina",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "180",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "tomas-mattern",
+     "b": "martin-skapa-b",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-mattern",
+     "walkover": true
+    },
+    {
+     "a": "tomas-mattern",
+     "b": "jan-bina",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "tomas-mattern",
+     "walkover": false
+    },
+    {
+     "a": "tomas-mattern",
+     "b": "sara-schwarzenbachova",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-mattern",
+     "walkover": true
+    },
+    {
+     "a": "tomas-mattern",
+     "b": "michal-kubina",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-mattern",
+     "walkover": true
+    },
+    {
+     "a": "martin-skapa-b",
+     "b": "jan-bina",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-skapa-b",
+     "walkover": false
+    },
+    {
+     "a": "martin-skapa-b",
+     "b": "sara-schwarzenbachova",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-skapa-b",
+     "walkover": true
+    },
+    {
+     "a": "martin-skapa-b",
+     "b": "michal-kubina",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-skapa-b",
+     "walkover": true
+    },
+    {
+     "a": "jan-bina",
+     "b": "sara-schwarzenbachova",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-bina",
+     "walkover": true
+    },
+    {
+     "a": "jan-bina",
+     "b": "michal-kubina",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-bina",
+     "walkover": true
+    },
+    {
+     "a": "sara-schwarzenbachova",
+     "b": "michal-kubina",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "sara-schwarzenbachova",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 14,
+   "group": "B",
+   "level": 15,
+   "title": "15. úroveň B - 180 bodů",
+   "players": [
+    {
+     "id": "tomas-horava",
+     "name": "Tomáš Hořava",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "218",
+     "sets": "12:0"
+    },
+    {
+     "id": "jakub-tyl",
+     "name": "Jakub Tyl",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "209",
+     "sets": "8:8"
+    },
+    {
+     "id": "miroslav-kotaska",
+     "name": "Miroslav Kotaška",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "196",
+     "sets": "8:8"
+    },
+    {
+     "id": "daniela-kroupova",
+     "name": "Daniela Kroupová",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "188",
+     "sets": "8:8"
+    },
+    {
+     "id": "ondrej-matrka",
+     "name": "Ondřej Matrka",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "180",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "tomas-horava",
+     "b": "jakub-tyl",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-horava",
+     "walkover": true
+    },
+    {
+     "a": "tomas-horava",
+     "b": "miroslav-kotaska",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "tomas-horava",
+     "walkover": false
+    },
+    {
+     "a": "tomas-horava",
+     "b": "daniela-kroupova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "tomas-horava",
+     "walkover": false
+    },
+    {
+     "a": "tomas-horava",
+     "b": "ondrej-matrka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "tomas-horava",
+     "walkover": false
+    },
+    {
+     "a": "jakub-tyl",
+     "b": "miroslav-kotaska",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "miroslav-kotaska",
+     "walkover": false
+    },
+    {
+     "a": "jakub-tyl",
+     "b": "daniela-kroupova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jakub-tyl",
+     "walkover": false
+    },
+    {
+     "a": "jakub-tyl",
+     "b": "ondrej-matrka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-tyl",
+     "walkover": false
+    },
+    {
+     "a": "miroslav-kotaska",
+     "b": "daniela-kroupova",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "daniela-kroupova",
+     "walkover": false
+    },
+    {
+     "a": "miroslav-kotaska",
+     "b": "ondrej-matrka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miroslav-kotaska",
+     "walkover": false
+    },
+    {
+     "a": "daniela-kroupova",
+     "b": "ondrej-matrka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "daniela-kroupova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 14,
+   "group": "C",
+   "level": 15,
+   "title": "15. úroveň C - 180 bodů",
+   "players": [
+    {
+     "id": "vladimir-janovsky",
+     "name": "Vladimír Janovský",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "216",
+     "sets": "9:7"
+    },
+    {
+     "id": "petr-velicka-l",
+     "name": "Petr Velička",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "211",
+     "sets": "11:3"
+    },
+    {
+     "id": "petr-franta",
+     "name": "Petr Franta",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "196",
+     "sets": "8:9"
+    },
+    {
+     "id": "martin-sedlak-1",
+     "name": "Martin Sedlák",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "188",
+     "sets": "7:6"
+    },
+    {
+     "id": "david-hula",
+     "name": "David Hůla",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "180",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "vladimir-janovsky",
+     "b": "petr-velicka-l",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "vladimir-janovsky",
+     "walkover": false
+    },
+    {
+     "a": "vladimir-janovsky",
+     "b": "petr-franta",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "vladimir-janovsky",
+     "walkover": false
+    },
+    {
+     "a": "vladimir-janovsky",
+     "b": "martin-sedlak-1",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-sedlak-1",
+     "walkover": true
+    },
+    {
+     "a": "vladimir-janovsky",
+     "b": "david-hula",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "vladimir-janovsky",
+     "walkover": true
+    },
+    {
+     "a": "petr-velicka-l",
+     "b": "petr-franta",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-velicka-l",
+     "walkover": false
+    },
+    {
+     "a": "petr-velicka-l",
+     "b": "martin-sedlak-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-velicka-l",
+     "walkover": false
+    },
+    {
+     "a": "petr-velicka-l",
+     "b": "david-hula",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "petr-velicka-l",
+     "walkover": true
+    },
+    {
+     "a": "petr-franta",
+     "b": "martin-sedlak-1",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-franta",
+     "walkover": false
+    },
+    {
+     "a": "petr-franta",
+     "b": "david-hula",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "petr-franta",
+     "walkover": false
+    },
+    {
+     "a": "martin-sedlak-1",
+     "b": "david-hula",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-sedlak-1",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 15,
+   "group": "A",
+   "level": 16,
+   "title": "16. úroveň A - 160 bodů",
+   "players": [
+    {
+     "id": "nikol-kalisz",
+     "name": "Nikol Kalisz",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "198",
+     "sets": "12:1"
+    },
+    {
+     "id": "dusan-belaska",
+     "name": "Dušan Bělaška",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "191",
+     "sets": "10:5"
+    },
+    {
+     "id": "simon-de-ridder",
+     "name": "Simon De Ridder",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "176",
+     "sets": "8:6"
+    },
+    {
+     "id": "adam-rezek",
+     "name": "Adam Rezek",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "166",
+     "sets": "3:9"
+    },
+    {
+     "id": "thorsten-stockner",
+     "name": "Thorsten Stockner",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "160",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "nikol-kalisz",
+     "b": "dusan-belaska",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "nikol-kalisz",
+     "walkover": false
+    },
+    {
+     "a": "nikol-kalisz",
+     "b": "simon-de-ridder",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "nikol-kalisz",
+     "walkover": false
+    },
+    {
+     "a": "nikol-kalisz",
+     "b": "adam-rezek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "nikol-kalisz",
+     "walkover": true
+    },
+    {
+     "a": "nikol-kalisz",
+     "b": "thorsten-stockner",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "nikol-kalisz",
+     "walkover": false
+    },
+    {
+     "a": "dusan-belaska",
+     "b": "simon-de-ridder",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "dusan-belaska",
+     "walkover": false
+    },
+    {
+     "a": "dusan-belaska",
+     "b": "adam-rezek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "dusan-belaska",
+     "walkover": true
+    },
+    {
+     "a": "dusan-belaska",
+     "b": "thorsten-stockner",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "dusan-belaska",
+     "walkover": false
+    },
+    {
+     "a": "simon-de-ridder",
+     "b": "adam-rezek",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "simon-de-ridder",
+     "walkover": true
+    },
+    {
+     "a": "simon-de-ridder",
+     "b": "thorsten-stockner",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "simon-de-ridder",
+     "walkover": true
+    },
+    {
+     "a": "adam-rezek",
+     "b": "thorsten-stockner",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "adam-rezek",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 15,
+   "group": "B",
+   "level": 16,
+   "title": "16. úroveň B - 160 bodů",
+   "players": [
+    {
+     "id": "martin-mendl-e",
+     "name": "Martin Mendl",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "198",
+     "sets": "12:1"
+    },
+    {
+     "id": "olivie-rubasova-s",
+     "name": "Olivie Rubášová",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "191",
+     "sets": "9:3"
+    },
+    {
+     "id": "jiri-cabelka-l",
+     "name": "Jiří Čábelka",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "176",
+     "sets": "7:6"
+    },
+    {
+     "id": "douglas-wong-z",
+     "name": "Douglas Wong",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "166",
+     "sets": "3:9"
+    },
+    {
+     "id": "brano-liptak",
+     "name": "Braňo Liptak",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "160",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "martin-mendl-e",
+     "b": "olivie-rubasova-s",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-mendl-e",
+     "walkover": false
+    },
+    {
+     "a": "martin-mendl-e",
+     "b": "jiri-cabelka-l",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-mendl-e",
+     "walkover": false
+    },
+    {
+     "a": "martin-mendl-e",
+     "b": "douglas-wong-z",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-mendl-e",
+     "walkover": false
+    },
+    {
+     "a": "martin-mendl-e",
+     "b": "brano-liptak",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-mendl-e",
+     "walkover": true
+    },
+    {
+     "a": "olivie-rubasova-s",
+     "b": "jiri-cabelka-l",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "olivie-rubasova-s",
+     "walkover": false
+    },
+    {
+     "a": "olivie-rubasova-s",
+     "b": "douglas-wong-z",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "olivie-rubasova-s",
+     "walkover": false
+    },
+    {
+     "a": "olivie-rubasova-s",
+     "b": "brano-liptak",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "olivie-rubasova-s",
+     "walkover": false
+    },
+    {
+     "a": "jiri-cabelka-l",
+     "b": "douglas-wong-z",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jiri-cabelka-l",
+     "walkover": false
+    },
+    {
+     "a": "jiri-cabelka-l",
+     "b": "brano-liptak",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jiri-cabelka-l",
+     "walkover": true
+    },
+    {
+     "a": "douglas-wong-z",
+     "b": "brano-liptak",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "douglas-wong-z",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 15,
+   "group": "C",
+   "level": 16,
+   "title": "16. úroveň C - 160 bodů",
+   "players": [
+    {
+     "id": "lubos-samaj",
+     "name": "Lubos Samaj",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "196",
+     "sets": "11:5"
+    },
+    {
+     "id": "roman-necas-u",
+     "name": "Roman Nečas",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "191",
+     "sets": "10:6"
+    },
+    {
+     "id": "lubos-ondruj",
+     "name": "Luboš Ondrůj",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "176",
+     "sets": "6:10"
+    },
+    {
+     "id": "martin-kuben",
+     "name": "Martin Kuběn",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "166",
+     "sets": "4:9"
+    },
+    {
+     "id": "michaela-hussova",
+     "name": "Michaela Hussová",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "160",
+     "sets": "5:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "lubos-samaj",
+     "b": "roman-necas-u",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lubos-samaj",
+     "walkover": false
+    },
+    {
+     "a": "lubos-samaj",
+     "b": "lubos-ondruj",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "lubos-ondruj",
+     "walkover": false
+    },
+    {
+     "a": "lubos-samaj",
+     "b": "martin-kuben",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "lubos-samaj",
+     "walkover": false
+    },
+    {
+     "a": "lubos-samaj",
+     "b": "michaela-hussova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lubos-samaj",
+     "walkover": false
+    },
+    {
+     "a": "roman-necas-u",
+     "b": "lubos-ondruj",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "roman-necas-u",
+     "walkover": false
+    },
+    {
+     "a": "roman-necas-u",
+     "b": "martin-kuben",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "roman-necas-u",
+     "walkover": false
+    },
+    {
+     "a": "roman-necas-u",
+     "b": "michaela-hussova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "roman-necas-u",
+     "walkover": false
+    },
+    {
+     "a": "lubos-ondruj",
+     "b": "martin-kuben",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "martin-kuben",
+     "walkover": false
+    },
+    {
+     "a": "lubos-ondruj",
+     "b": "michaela-hussova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "lubos-ondruj",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 16,
+   "group": "A",
+   "level": 17,
+   "title": "17. úroveň A - 140 bodů",
+   "players": [
+    {
+     "id": "martin-zdarsky",
+     "name": "Martin Žďárský",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "178",
+     "sets": "12:3"
+    },
+    {
+     "id": "filip-lazar",
+     "name": "Filip Lazár",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "171",
+     "sets": "11:3"
+    },
+    {
+     "id": "daniel-mily",
+     "name": "Daniel Mily",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "156",
+     "sets": "7:8"
+    },
+    {
+     "id": "maros-borak",
+     "name": "Maroš Borák",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "146",
+     "sets": "5:9"
+    },
+    {
+     "id": "dmitrij-hladky",
+     "name": "Dmitrij Hladký",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "140",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "martin-zdarsky",
+     "b": "filip-lazar",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "martin-zdarsky",
+     "walkover": false
+    },
+    {
+     "a": "martin-zdarsky",
+     "b": "daniel-mily",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-zdarsky",
+     "walkover": false
+    },
+    {
+     "a": "martin-zdarsky",
+     "b": "maros-borak",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-zdarsky",
+     "walkover": false
+    },
+    {
+     "a": "martin-zdarsky",
+     "b": "dmitrij-hladky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-zdarsky",
+     "walkover": true
+    },
+    {
+     "a": "filip-lazar",
+     "b": "daniel-mily",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "filip-lazar",
+     "walkover": false
+    },
+    {
+     "a": "filip-lazar",
+     "b": "maros-borak",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "filip-lazar",
+     "walkover": false
+    },
+    {
+     "a": "filip-lazar",
+     "b": "dmitrij-hladky",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "filip-lazar",
+     "walkover": false
+    },
+    {
+     "a": "daniel-mily",
+     "b": "maros-borak",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "daniel-mily",
+     "walkover": false
+    },
+    {
+     "a": "daniel-mily",
+     "b": "dmitrij-hladky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "daniel-mily",
+     "walkover": true
+    },
+    {
+     "a": "maros-borak",
+     "b": "dmitrij-hladky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "maros-borak",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 16,
+   "group": "B",
+   "level": 17,
+   "title": "17. úroveň B - 140 bodů",
+   "players": [
+    {
+     "id": "zdenek-soukup-j",
+     "name": "Zdenek Soukup",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "178",
+     "sets": "12:1"
+    },
+    {
+     "id": "jan-motejzik",
+     "name": "Jan Motejzík",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "171",
+     "sets": "10:5"
+    },
+    {
+     "id": "guillaume-allano",
+     "name": "Guillaume Allano",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "156",
+     "sets": "6:8"
+    },
+    {
+     "id": "jana-vrzalova-t",
+     "name": "Jana Vrzalová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "146",
+     "sets": "7:9"
+    },
+    {
+     "id": "zuzana-nedasova",
+     "name": "Zuzana Nedasová",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "140",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "zdenek-soukup-j",
+     "b": "jan-motejzik",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "zdenek-soukup-j",
+     "walkover": false
+    },
+    {
+     "a": "zdenek-soukup-j",
+     "b": "guillaume-allano",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "zdenek-soukup-j",
+     "walkover": false
+    },
+    {
+     "a": "zdenek-soukup-j",
+     "b": "jana-vrzalova-t",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "zdenek-soukup-j",
+     "walkover": false
+    },
+    {
+     "a": "zdenek-soukup-j",
+     "b": "zuzana-nedasova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "zdenek-soukup-j",
+     "walkover": false
+    },
+    {
+     "a": "jan-motejzik",
+     "b": "guillaume-allano",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-motejzik",
+     "walkover": false
+    },
+    {
+     "a": "jan-motejzik",
+     "b": "jana-vrzalova-t",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jan-motejzik",
+     "walkover": false
+    },
+    {
+     "a": "jan-motejzik",
+     "b": "zuzana-nedasova",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jan-motejzik",
+     "walkover": true
+    },
+    {
+     "a": "guillaume-allano",
+     "b": "jana-vrzalova-t",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "guillaume-allano",
+     "walkover": false
+    },
+    {
+     "a": "guillaume-allano",
+     "b": "zuzana-nedasova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "guillaume-allano",
+     "walkover": false
+    },
+    {
+     "a": "jana-vrzalova-t",
+     "b": "zuzana-nedasova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jana-vrzalova-t",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 16,
+   "group": "C",
+   "level": 17,
+   "title": "17. úroveň C - 140 bodů",
+   "players": [
+    {
+     "id": "jakub-machat-u",
+     "name": "Jakub Machat",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "176",
+     "sets": "11:4"
+    },
+    {
+     "id": "marek-beleja",
+     "name": "Marek Běleja",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "171",
+     "sets": "9:3"
+    },
+    {
+     "id": "michal-lansky",
+     "name": "Michal Lánský",
+     "place": 3,
+     "points_matches": "6",
+     "points_place": "12",
+     "points_total": "158",
+     "sets": "9:8"
+    },
+    {
+     "id": "barbora-semova",
+     "name": "Barbora Semová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "146",
+     "sets": "6:10"
+    },
+    {
+     "id": "lada-svehla",
+     "name": "Láďa Švehla",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "140",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jakub-machat-u",
+     "b": "marek-beleja",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jakub-machat-u",
+     "walkover": true
+    },
+    {
+     "a": "jakub-machat-u",
+     "b": "michal-lansky",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "michal-lansky",
+     "walkover": false
+    },
+    {
+     "a": "jakub-machat-u",
+     "b": "barbora-semova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jakub-machat-u",
+     "walkover": false
+    },
+    {
+     "a": "jakub-machat-u",
+     "b": "lada-svehla",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jakub-machat-u",
+     "walkover": true
+    },
+    {
+     "a": "marek-beleja",
+     "b": "michal-lansky",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "marek-beleja",
+     "walkover": false
+    },
+    {
+     "a": "marek-beleja",
+     "b": "barbora-semova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "marek-beleja",
+     "walkover": false
+    },
+    {
+     "a": "marek-beleja",
+     "b": "lada-svehla",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "marek-beleja",
+     "walkover": false
+    },
+    {
+     "a": "michal-lansky",
+     "b": "barbora-semova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michal-lansky",
+     "walkover": false
+    },
+    {
+     "a": "michal-lansky",
+     "b": "lada-svehla",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-lansky",
+     "walkover": false
+    },
+    {
+     "a": "barbora-semova",
+     "b": "lada-svehla",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "barbora-semova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 17,
+   "group": "A",
+   "level": 18,
+   "title": "18. úroveň A - 120 bodů",
+   "players": [
+    {
+     "id": "jakub-konopka",
+     "name": "Jakub Konopka",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "158",
+     "sets": "12:0"
+    },
+    {
+     "id": "lubomir-pesek-j",
+     "name": "Lubomír Pešek",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "151",
+     "sets": "9:4"
+    },
+    {
+     "id": "jiri-sobotik",
+     "name": "Jiří Sobotík",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "136",
+     "sets": "6:7"
+    },
+    {
+     "id": "david-branzovsky",
+     "name": "David Branžovský",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "126",
+     "sets": "3:9"
+    },
+    {
+     "id": "petr-vitasek-5",
+     "name": "Petr Vitásek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "120",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jakub-konopka",
+     "b": "lubomir-pesek-j",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-konopka",
+     "walkover": false
+    },
+    {
+     "a": "jakub-konopka",
+     "b": "jiri-sobotik",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-konopka",
+     "walkover": false
+    },
+    {
+     "a": "jakub-konopka",
+     "b": "david-branzovsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jakub-konopka",
+     "walkover": true
+    },
+    {
+     "a": "jakub-konopka",
+     "b": "petr-vitasek-5",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jakub-konopka",
+     "walkover": false
+    },
+    {
+     "a": "lubomir-pesek-j",
+     "b": "jiri-sobotik",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "lubomir-pesek-j",
+     "walkover": false
+    },
+    {
+     "a": "lubomir-pesek-j",
+     "b": "david-branzovsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "lubomir-pesek-j",
+     "walkover": true
+    },
+    {
+     "a": "lubomir-pesek-j",
+     "b": "petr-vitasek-5",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lubomir-pesek-j",
+     "walkover": false
+    },
+    {
+     "a": "jiri-sobotik",
+     "b": "david-branzovsky",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jiri-sobotik",
+     "walkover": true
+    },
+    {
+     "a": "jiri-sobotik",
+     "b": "petr-vitasek-5",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jiri-sobotik",
+     "walkover": false
+    },
+    {
+     "a": "david-branzovsky",
+     "b": "petr-vitasek-5",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "david-branzovsky",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 17,
+   "group": "B",
+   "level": 18,
+   "title": "18. úroveň B - 120 bodů",
+   "players": [
+    {
+     "id": "petra-grusserova",
+     "name": "Petra Grüsserová",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "156",
+     "sets": "11:7"
+    },
+    {
+     "id": "x-svehla-b",
+     "name": "X Švehla",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "151",
+     "sets": "11:5"
+    },
+    {
+     "id": "lucia-rothova",
+     "name": "Lucia Rothova",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "136",
+     "sets": "7:8"
+    },
+    {
+     "id": "zuzka-synkova",
+     "name": "Zuzka Synková",
+     "place": 4,
+     "points_matches": "4",
+     "points_place": "4",
+     "points_total": "128",
+     "sets": "8:9"
+    },
+    {
+     "id": "zdenek-valek-j",
+     "name": "Zdeněk Válek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "120",
+     "sets": "4:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "petra-grusserova",
+     "b": "x-svehla-b",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "petra-grusserova",
+     "walkover": false
+    },
+    {
+     "a": "petra-grusserova",
+     "b": "lucia-rothova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petra-grusserova",
+     "walkover": false
+    },
+    {
+     "a": "petra-grusserova",
+     "b": "zuzka-synkova",
+     "sets_a": 2,
+     "sets_b": 3,
+     "winner": "zuzka-synkova",
+     "walkover": false
+    },
+    {
+     "a": "petra-grusserova",
+     "b": "zdenek-valek-j",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petra-grusserova",
+     "walkover": false
+    },
+    {
+     "a": "x-svehla-b",
+     "b": "lucia-rothova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "x-svehla-b",
+     "walkover": false
+    },
+    {
+     "a": "x-svehla-b",
+     "b": "zuzka-synkova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "x-svehla-b",
+     "walkover": false
+    },
+    {
+     "a": "x-svehla-b",
+     "b": "zdenek-valek-j",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "x-svehla-b",
+     "walkover": false
+    },
+    {
+     "a": "lucia-rothova",
+     "b": "zuzka-synkova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lucia-rothova",
+     "walkover": false
+    },
+    {
+     "a": "lucia-rothova",
+     "b": "zdenek-valek-j",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "lucia-rothova",
+     "walkover": false
+    },
+    {
+     "a": "zuzka-synkova",
+     "b": "zdenek-valek-j",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "zuzka-synkova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 17,
+   "group": "C",
+   "level": 18,
+   "title": "18. úroveň C - 120 bodů",
+   "players": [
+    {
+     "id": "petr-zitek",
+     "name": "Petr Zítek",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "156",
+     "sets": "9:5"
+    },
+    {
+     "id": "robert-skop",
+     "name": "Róbert Škop",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "151",
+     "sets": "10:3"
+    },
+    {
+     "id": "ondrej-mayer",
+     "name": "Ondřej Mayer",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "136",
+     "sets": "6:10"
+    },
+    {
+     "id": "jana-zarybnicka-x",
+     "name": "Jana Zarybnicka",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "126",
+     "sets": "5:11"
+    },
+    {
+     "id": "jiri-charvat-a",
+     "name": "Jiří Charvát",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "120",
+     "sets": "5:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "petr-zitek",
+     "b": "robert-skop",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-zitek",
+     "walkover": false
+    },
+    {
+     "a": "petr-zitek",
+     "b": "ondrej-mayer",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-zitek",
+     "walkover": false
+    },
+    {
+     "a": "petr-zitek",
+     "b": "jiri-charvat-a",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-zitek",
+     "walkover": false
+    },
+    {
+     "a": "robert-skop",
+     "b": "ondrej-mayer",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "robert-skop",
+     "walkover": false
+    },
+    {
+     "a": "robert-skop",
+     "b": "jana-zarybnicka-x",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "robert-skop",
+     "walkover": true
+    },
+    {
+     "a": "robert-skop",
+     "b": "jiri-charvat-a",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "robert-skop",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-mayer",
+     "b": "jana-zarybnicka-x",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ondrej-mayer",
+     "walkover": false
+    },
+    {
+     "a": "ondrej-mayer",
+     "b": "jiri-charvat-a",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ondrej-mayer",
+     "walkover": false
+    },
+    {
+     "a": "jana-zarybnicka-x",
+     "b": "jiri-charvat-a",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jana-zarybnicka-x",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 18,
+   "group": "A",
+   "level": 19,
+   "title": "19. úroveň A - 100 bodů",
+   "players": [
+    {
+     "id": "miroslav-blazek",
+     "name": "Miroslav Blažek",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "138",
+     "sets": "12:0"
+    },
+    {
+     "id": "marek-velich",
+     "name": "Marek Velich",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "131",
+     "sets": "9:5"
+    },
+    {
+     "id": "jitka-schmiegerova",
+     "name": "Jitka Schmiegerová",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "116",
+     "sets": "8:8"
+    },
+    {
+     "id": "marie-sedlakova",
+     "name": "Marie Sedláková",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "106",
+     "sets": "5:9"
+    },
+    {
+     "id": "miroslav-osmancik",
+     "name": "Miroslav Osmančík",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "100",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "miroslav-blazek",
+     "b": "marek-velich",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miroslav-blazek",
+     "walkover": false
+    },
+    {
+     "a": "miroslav-blazek",
+     "b": "jitka-schmiegerova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miroslav-blazek",
+     "walkover": false
+    },
+    {
+     "a": "miroslav-blazek",
+     "b": "marie-sedlakova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miroslav-blazek",
+     "walkover": false
+    },
+    {
+     "a": "miroslav-blazek",
+     "b": "miroslav-osmancik",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "miroslav-blazek",
+     "walkover": true
+    },
+    {
+     "a": "marek-velich",
+     "b": "jitka-schmiegerova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "marek-velich",
+     "walkover": false
+    },
+    {
+     "a": "marek-velich",
+     "b": "marie-sedlakova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "marek-velich",
+     "walkover": false
+    },
+    {
+     "a": "marek-velich",
+     "b": "miroslav-osmancik",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "marek-velich",
+     "walkover": true
+    },
+    {
+     "a": "jitka-schmiegerova",
+     "b": "marie-sedlakova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jitka-schmiegerova",
+     "walkover": false
+    },
+    {
+     "a": "jitka-schmiegerova",
+     "b": "miroslav-osmancik",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "jitka-schmiegerova",
+     "walkover": true
+    },
+    {
+     "a": "marie-sedlakova",
+     "b": "miroslav-osmancik",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "marie-sedlakova",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 18,
+   "group": "B",
+   "level": 19,
+   "title": "19. úroveň B - 100 bodů",
+   "players": [
+    {
+     "id": "jan-walken",
+     "name": "Jan Walken",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "138",
+     "sets": "12:2"
+    },
+    {
+     "id": "petr-sterba",
+     "name": "Petr Štěrba",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "131",
+     "sets": "10:4"
+    },
+    {
+     "id": "jan-balaz-a",
+     "name": "Jan Baláž",
+     "place": 3,
+     "points_matches": "2",
+     "points_place": "12",
+     "points_total": "114",
+     "sets": "5:9"
+    },
+    {
+     "id": "kristyna-fricova",
+     "name": "Kristýna Fricová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "106",
+     "sets": "3:9"
+    },
+    {
+     "id": "jan-machovec-t",
+     "name": "Jan Machovec",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "100",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jan-walken",
+     "b": "petr-sterba",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-walken",
+     "walkover": false
+    },
+    {
+     "a": "jan-walken",
+     "b": "jan-balaz-a",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-walken",
+     "walkover": false
+    },
+    {
+     "a": "jan-walken",
+     "b": "kristyna-fricova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-walken",
+     "walkover": false
+    },
+    {
+     "a": "jan-walken",
+     "b": "jan-machovec-t",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-walken",
+     "walkover": false
+    },
+    {
+     "a": "petr-sterba",
+     "b": "jan-balaz-a",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-sterba",
+     "walkover": false
+    },
+    {
+     "a": "petr-sterba",
+     "b": "kristyna-fricova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-sterba",
+     "walkover": false
+    },
+    {
+     "a": "petr-sterba",
+     "b": "jan-machovec-t",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "petr-sterba",
+     "walkover": false
+    },
+    {
+     "a": "jan-balaz-a",
+     "b": "jan-machovec-t",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-balaz-a",
+     "walkover": false
+    },
+    {
+     "a": "kristyna-fricova",
+     "b": "jan-machovec-t",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "kristyna-fricova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 18,
+   "group": "C",
+   "level": 19,
+   "title": "19. úroveň C - 100 bodů",
+   "players": [
+    {
+     "id": "frantisek-bily",
+     "name": "František Bílý",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "138",
+     "sets": "12:0"
+    },
+    {
+     "id": "jiri-lacina",
+     "name": "Jiří Lacina",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "131",
+     "sets": "9:7"
+    },
+    {
+     "id": "petr-pokorny",
+     "name": "Petr Pokorný",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "116",
+     "sets": "7:9"
+    },
+    {
+     "id": "ladislav-gonzalez",
+     "name": "Ladislav González",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "106",
+     "sets": "6:9"
+    },
+    {
+     "id": "martin-stepan-b",
+     "name": "Martin Štěpán",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "100",
+     "sets": "3:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "frantisek-bily",
+     "b": "jiri-lacina",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "frantisek-bily",
+     "walkover": false
+    },
+    {
+     "a": "frantisek-bily",
+     "b": "petr-pokorny",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "frantisek-bily",
+     "walkover": false
+    },
+    {
+     "a": "frantisek-bily",
+     "b": "ladislav-gonzalez",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "frantisek-bily",
+     "walkover": false
+    },
+    {
+     "a": "frantisek-bily",
+     "b": "martin-stepan-b",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "frantisek-bily",
+     "walkover": false
+    },
+    {
+     "a": "jiri-lacina",
+     "b": "petr-pokorny",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jiri-lacina",
+     "walkover": false
+    },
+    {
+     "a": "jiri-lacina",
+     "b": "ladislav-gonzalez",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "jiri-lacina",
+     "walkover": false
+    },
+    {
+     "a": "jiri-lacina",
+     "b": "martin-stepan-b",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jiri-lacina",
+     "walkover": false
+    },
+    {
+     "a": "petr-pokorny",
+     "b": "ladislav-gonzalez",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petr-pokorny",
+     "walkover": false
+    },
+    {
+     "a": "petr-pokorny",
+     "b": "martin-stepan-b",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "petr-pokorny",
+     "walkover": false
+    },
+    {
+     "a": "ladislav-gonzalez",
+     "b": "martin-stepan-b",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "ladislav-gonzalez",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 19,
+   "group": "A",
+   "level": 20,
+   "title": "20. úroveň A - 80 bodů",
+   "players": [
+    {
+     "id": "david-vecera",
+     "name": "David Večera",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "118",
+     "sets": "12:6"
+    },
+    {
+     "id": "zbynek-kojecky-b",
+     "name": "Zbyněk Kojecký",
+     "place": 2,
+     "points_matches": "4",
+     "points_place": "25",
+     "points_total": "109",
+     "sets": "8:7"
+    },
+    {
+     "id": "tomas-cupal",
+     "name": "Tomáš Cupal",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "96",
+     "sets": "8:7"
+    },
+    {
+     "id": "zuzana-glogarova-x",
+     "name": "Zuzana Glogarová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "86",
+     "sets": "7:9"
+    },
+    {
+     "id": "marek-moucha",
+     "name": "Marek Moucha",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "80",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "david-vecera",
+     "b": "zbynek-kojecky-b",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "david-vecera",
+     "walkover": false
+    },
+    {
+     "a": "david-vecera",
+     "b": "tomas-cupal",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "david-vecera",
+     "walkover": false
+    },
+    {
+     "a": "david-vecera",
+     "b": "zuzana-glogarova-x",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "david-vecera",
+     "walkover": false
+    },
+    {
+     "a": "david-vecera",
+     "b": "marek-moucha",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "david-vecera",
+     "walkover": true
+    },
+    {
+     "a": "zbynek-kojecky-b",
+     "b": "zuzana-glogarova-x",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "zbynek-kojecky-b",
+     "walkover": false
+    },
+    {
+     "a": "zbynek-kojecky-b",
+     "b": "marek-moucha",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "zbynek-kojecky-b",
+     "walkover": true
+    },
+    {
+     "a": "tomas-cupal",
+     "b": "zuzana-glogarova-x",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "tomas-cupal",
+     "walkover": false
+    },
+    {
+     "a": "tomas-cupal",
+     "b": "marek-moucha",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "tomas-cupal",
+     "walkover": true
+    },
+    {
+     "a": "zuzana-glogarova-x",
+     "b": "marek-moucha",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "zuzana-glogarova-x",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 19,
+   "group": "B",
+   "level": 20,
+   "title": "20. úroveň B - 80 bodů",
+   "players": [
+    {
+     "id": "luisa-illkova",
+     "name": "Luisa Illková",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "118",
+     "sets": "12:2"
+    },
+    {
+     "id": "zbynek-kojecky",
+     "name": "Zbyněk Kojecký",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "111",
+     "sets": "9:9"
+    },
+    {
+     "id": "david-paulus-k",
+     "name": "David Paulus",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "96",
+     "sets": "10:6"
+    },
+    {
+     "id": "andrea-lukesova",
+     "name": "Andrea Lukešová",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "86",
+     "sets": "5:10"
+    },
+    {
+     "id": "tereza-mach-hraskova",
+     "name": "Tereza Mach Hrašková",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "80",
+     "sets": "3:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "luisa-illkova",
+     "b": "zbynek-kojecky",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "luisa-illkova",
+     "walkover": false
+    },
+    {
+     "a": "luisa-illkova",
+     "b": "david-paulus-k",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "luisa-illkova",
+     "walkover": false
+    },
+    {
+     "a": "luisa-illkova",
+     "b": "andrea-lukesova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "luisa-illkova",
+     "walkover": false
+    },
+    {
+     "a": "luisa-illkova",
+     "b": "tereza-mach-hraskova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "luisa-illkova",
+     "walkover": false
+    },
+    {
+     "a": "zbynek-kojecky",
+     "b": "david-paulus-k",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "zbynek-kojecky",
+     "walkover": false
+    },
+    {
+     "a": "zbynek-kojecky",
+     "b": "andrea-lukesova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "zbynek-kojecky",
+     "walkover": false
+    },
+    {
+     "a": "zbynek-kojecky",
+     "b": "tereza-mach-hraskova",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "zbynek-kojecky",
+     "walkover": false
+    },
+    {
+     "a": "david-paulus-k",
+     "b": "andrea-lukesova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "david-paulus-k",
+     "walkover": false
+    },
+    {
+     "a": "david-paulus-k",
+     "b": "tereza-mach-hraskova",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "david-paulus-k",
+     "walkover": true
+    },
+    {
+     "a": "andrea-lukesova",
+     "b": "tereza-mach-hraskova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "andrea-lukesova",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 20,
+   "group": "A",
+   "level": 21,
+   "title": "21. úroveň A - 60 bodů",
+   "players": [
+    {
+     "id": "denisa-slavikova",
+     "name": "Denisa Slavíková",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "98",
+     "sets": "12:1"
+    },
+    {
+     "id": "vit-lojda",
+     "name": "Vít Lojda",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "91",
+     "sets": "9:3"
+    },
+    {
+     "id": "michaela-stoskova",
+     "name": "Michaela Stošková",
+     "place": 3,
+     "points_matches": "2",
+     "points_place": "12",
+     "points_total": "74",
+     "sets": "4:9"
+    },
+    {
+     "id": "vit-mraz",
+     "name": "Vít Mráz",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "66",
+     "sets": "3:9"
+    },
+    {
+     "id": "rudolf-pischek-j",
+     "name": "Rudolf Pischek",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "60",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "denisa-slavikova",
+     "b": "vit-lojda",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "denisa-slavikova",
+     "walkover": false
+    },
+    {
+     "a": "denisa-slavikova",
+     "b": "michaela-stoskova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "denisa-slavikova",
+     "walkover": false
+    },
+    {
+     "a": "denisa-slavikova",
+     "b": "vit-mraz",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "denisa-slavikova",
+     "walkover": false
+    },
+    {
+     "a": "denisa-slavikova",
+     "b": "rudolf-pischek-j",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "denisa-slavikova",
+     "walkover": false
+    },
+    {
+     "a": "vit-lojda",
+     "b": "michaela-stoskova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vit-lojda",
+     "walkover": false
+    },
+    {
+     "a": "vit-lojda",
+     "b": "vit-mraz",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vit-lojda",
+     "walkover": false
+    },
+    {
+     "a": "vit-lojda",
+     "b": "rudolf-pischek-j",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vit-lojda",
+     "walkover": false
+    },
+    {
+     "a": "michaela-stoskova",
+     "b": "rudolf-pischek-j",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michaela-stoskova",
+     "walkover": false
+    },
+    {
+     "a": "vit-mraz",
+     "b": "rudolf-pischek-j",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "vit-mraz",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 20,
+   "group": "B",
+   "level": 21,
+   "title": "21. úroveň B - 60 bodů",
+   "players": [
+    {
+     "id": "michal-kudrna",
+     "name": "Michal Kudrna",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "98",
+     "sets": "12:2"
+    },
+    {
+     "id": "pavel-polacek-m",
+     "name": "Pavel Poláček",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "91",
+     "sets": "10:4"
+    },
+    {
+     "id": "jan-pivonka",
+     "name": "Jan Pivoňka",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "76",
+     "sets": "7:6"
+    },
+    {
+     "id": "milan-karas",
+     "name": "Milan Karas",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "66",
+     "sets": "3:10"
+    },
+    {
+     "id": "tereza-kubalkova",
+     "name": "Tereza Kubálková",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "60",
+     "sets": "2:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "michal-kudrna",
+     "b": "pavel-polacek-m",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-kudrna",
+     "walkover": false
+    },
+    {
+     "a": "michal-kudrna",
+     "b": "jan-pivonka",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michal-kudrna",
+     "walkover": false
+    },
+    {
+     "a": "michal-kudrna",
+     "b": "milan-karas",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michal-kudrna",
+     "walkover": false
+    },
+    {
+     "a": "michal-kudrna",
+     "b": "tereza-kubalkova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "michal-kudrna",
+     "walkover": false
+    },
+    {
+     "a": "pavel-polacek-m",
+     "b": "jan-pivonka",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "pavel-polacek-m",
+     "walkover": false
+    },
+    {
+     "a": "pavel-polacek-m",
+     "b": "milan-karas",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "pavel-polacek-m",
+     "walkover": false
+    },
+    {
+     "a": "pavel-polacek-m",
+     "b": "tereza-kubalkova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "pavel-polacek-m",
+     "walkover": false
+    },
+    {
+     "a": "jan-pivonka",
+     "b": "milan-karas",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-pivonka",
+     "walkover": false
+    },
+    {
+     "a": "jan-pivonka",
+     "b": "tereza-kubalkova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-pivonka",
+     "walkover": false
+    },
+    {
+     "a": "milan-karas",
+     "b": "tereza-kubalkova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "milan-karas",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 21,
+   "group": "A",
+   "level": 22,
+   "title": "22. úroveň A - 40 bodů",
+   "players": [
+    {
+     "id": "martin-klufa",
+     "name": "Martin Klufa",
+     "place": 1,
+     "points_matches": "6",
+     "points_place": "30",
+     "points_total": "76",
+     "sets": "12:4"
+    },
+    {
+     "id": "jan-bakalar-v",
+     "name": "Jan Bakalář",
+     "place": 2,
+     "points_matches": "5",
+     "points_place": "25",
+     "points_total": "70",
+     "sets": "10:7"
+    },
+    {
+     "id": "ema-bimonova",
+     "name": "Ema Bímonová",
+     "place": 3,
+     "points_matches": "5",
+     "points_place": "12",
+     "points_total": "57",
+     "sets": "11:9"
+    },
+    {
+     "id": "michala-forinova",
+     "name": "Michala Forinová",
+     "place": 4,
+     "points_matches": "5",
+     "points_place": "10",
+     "points_total": "55",
+     "sets": "10:10"
+    },
+    {
+     "id": "tomas-frmmel",
+     "name": "Tomáš Frömmel",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "46",
+     "sets": "4:13"
+    },
+    {
+     "id": "lenka-dvorakova-1",
+     "name": "Lenka Dvoráková",
+     "place": 6,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "40",
+     "sets": "5:15"
+    }
+   ],
+   "matches": [
+    {
+     "a": "martin-klufa",
+     "b": "jan-bakalar-v",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-klufa",
+     "walkover": false
+    },
+    {
+     "a": "martin-klufa",
+     "b": "ema-bimonova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "martin-klufa",
+     "walkover": false
+    },
+    {
+     "a": "martin-klufa",
+     "b": "michala-forinova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-klufa",
+     "walkover": false
+    },
+    {
+     "a": "martin-klufa",
+     "b": "lenka-dvorakova-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martin-klufa",
+     "walkover": false
+    },
+    {
+     "a": "jan-bakalar-v",
+     "b": "ema-bimonova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-bakalar-v",
+     "walkover": false
+    },
+    {
+     "a": "jan-bakalar-v",
+     "b": "michala-forinova",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "michala-forinova",
+     "walkover": false
+    },
+    {
+     "a": "jan-bakalar-v",
+     "b": "tomas-frmmel",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-bakalar-v",
+     "walkover": false
+    },
+    {
+     "a": "jan-bakalar-v",
+     "b": "lenka-dvorakova-1",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-bakalar-v",
+     "walkover": false
+    },
+    {
+     "a": "ema-bimonova",
+     "b": "michala-forinova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "ema-bimonova",
+     "walkover": false
+    },
+    {
+     "a": "ema-bimonova",
+     "b": "tomas-frmmel",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "ema-bimonova",
+     "walkover": false
+    },
+    {
+     "a": "ema-bimonova",
+     "b": "lenka-dvorakova-1",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "ema-bimonova",
+     "walkover": false
+    },
+    {
+     "a": "michala-forinova",
+     "b": "tomas-frmmel",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "michala-forinova",
+     "walkover": false
+    },
+    {
+     "a": "michala-forinova",
+     "b": "lenka-dvorakova-1",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "michala-forinova",
+     "walkover": false
+    },
+    {
+     "a": "tomas-frmmel",
+     "b": "lenka-dvorakova-1",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "tomas-frmmel",
+     "walkover": false
+    }
+   ]
+  },
+  {
+   "result_id": 21,
+   "group": "B",
+   "level": 22,
+   "title": "22. úroveň B - 40 bodů",
+   "players": [
+    {
+     "id": "evgenia-kareva",
+     "name": "Evgenia Kareva",
+     "place": 1,
+     "points_matches": "8",
+     "points_place": "30",
+     "points_total": "78",
+     "sets": "12:0"
+    },
+    {
+     "id": "martina-tremlova",
+     "name": "Martina Tremlova",
+     "place": 2,
+     "points_matches": "6",
+     "points_place": "25",
+     "points_total": "71",
+     "sets": "9:3"
+    },
+    {
+     "id": "barbora-roznetinska",
+     "name": "Barbora Roznětinská",
+     "place": 3,
+     "points_matches": "4",
+     "points_place": "12",
+     "points_total": "56",
+     "sets": "6:6"
+    },
+    {
+     "id": "martin-chovan",
+     "name": "Martin Chovan",
+     "place": 4,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "46",
+     "sets": "3:9"
+    },
+    {
+     "id": "martin-bures-l",
+     "name": "Martin Bureš",
+     "place": 5,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "40",
+     "sets": "0:12"
+    }
+   ],
+   "matches": [
+    {
+     "a": "evgenia-kareva",
+     "b": "martina-tremlova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "evgenia-kareva",
+     "walkover": false
+    },
+    {
+     "a": "evgenia-kareva",
+     "b": "barbora-roznetinska",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "evgenia-kareva",
+     "walkover": false
+    },
+    {
+     "a": "evgenia-kareva",
+     "b": "martin-chovan",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "evgenia-kareva",
+     "walkover": false
+    },
+    {
+     "a": "evgenia-kareva",
+     "b": "martin-bures-l",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "evgenia-kareva",
+     "walkover": true
+    },
+    {
+     "a": "martina-tremlova",
+     "b": "barbora-roznetinska",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "martina-tremlova",
+     "walkover": false
+    },
+    {
+     "a": "martina-tremlova",
+     "b": "martin-chovan",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martina-tremlova",
+     "walkover": true
+    },
+    {
+     "a": "martina-tremlova",
+     "b": "martin-bures-l",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martina-tremlova",
+     "walkover": true
+    },
+    {
+     "a": "barbora-roznetinska",
+     "b": "martin-chovan",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "barbora-roznetinska",
+     "walkover": false
+    },
+    {
+     "a": "barbora-roznetinska",
+     "b": "martin-bures-l",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "barbora-roznetinska",
+     "walkover": true
+    },
+    {
+     "a": "martin-chovan",
+     "b": "martin-bures-l",
+     "sets_a": null,
+     "sets_b": null,
+     "winner": "martin-chovan",
+     "walkover": true
+    }
+   ]
+  },
+  {
+   "result_id": 22,
+   "group": "A",
+   "level": 23,
+   "title": "23. úroveň A - 20 bodů",
+   "players": [
+    {
+     "id": "jan-marousek",
+     "name": "Jan Maroušek",
+     "place": 1,
+     "points_matches": "5",
+     "points_place": "30",
+     "points_total": "55",
+     "sets": "10:7"
+    },
+    {
+     "id": "katerina-dvorakova-y",
+     "name": "Kateřina Dvořáková",
+     "place": 2,
+     "points_matches": "3",
+     "points_place": "25",
+     "points_total": "48",
+     "sets": "7:11"
+    },
+    {
+     "id": "petra-jerabkova",
+     "name": "Petra Jeřábková",
+     "place": 3,
+     "points_matches": "3",
+     "points_place": "12",
+     "points_total": "35",
+     "sets": "6:12"
+    },
+    {
+     "id": "miroslav-gleitz",
+     "name": "Miroslav Gleitz",
+     "place": 4,
+     "points_matches": "3",
+     "points_place": "10",
+     "points_total": "33",
+     "sets": "10:10"
+    },
+    {
+     "id": "rostislav-sochor",
+     "name": "Rostislav Sochor",
+     "place": 5,
+     "points_matches": "2",
+     "points_place": "4",
+     "points_total": "26",
+     "sets": "3:12"
+    },
+    {
+     "id": "iva-chalupova",
+     "name": "Iva Chalupová",
+     "place": 6,
+     "points_matches": "0",
+     "points_place": "0",
+     "points_total": "20",
+     "sets": "1:15"
+    }
+   ],
+   "matches": [
+    {
+     "a": "jan-marousek",
+     "b": "katerina-dvorakova-y",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "jan-marousek",
+     "walkover": false
+    },
+    {
+     "a": "jan-marousek",
+     "b": "petra-jerabkova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-marousek",
+     "walkover": false
+    },
+    {
+     "a": "jan-marousek",
+     "b": "miroslav-gleitz",
+     "sets_a": 1,
+     "sets_b": 3,
+     "winner": "miroslav-gleitz",
+     "walkover": false
+    },
+    {
+     "a": "jan-marousek",
+     "b": "iva-chalupova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "jan-marousek",
+     "walkover": false
+    },
+    {
+     "a": "katerina-dvorakova-y",
+     "b": "petra-jerabkova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "katerina-dvorakova-y",
+     "walkover": false
+    },
+    {
+     "a": "katerina-dvorakova-y",
+     "b": "miroslav-gleitz",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "katerina-dvorakova-y",
+     "walkover": false
+    },
+    {
+     "a": "petra-jerabkova",
+     "b": "miroslav-gleitz",
+     "sets_a": 3,
+     "sets_b": 2,
+     "winner": "petra-jerabkova",
+     "walkover": false
+    },
+    {
+     "a": "petra-jerabkova",
+     "b": "rostislav-sochor",
+     "sets_a": 0,
+     "sets_b": 3,
+     "winner": "rostislav-sochor",
+     "walkover": false
+    },
+    {
+     "a": "petra-jerabkova",
+     "b": "iva-chalupova",
+     "sets_a": 3,
+     "sets_b": 1,
+     "winner": "petra-jerabkova",
+     "walkover": false
+    },
+    {
+     "a": "miroslav-gleitz",
+     "b": "iva-chalupova",
+     "sets_a": 3,
+     "sets_b": 0,
+     "winner": "miroslav-gleitz",
+     "walkover": false
+    }
+   ]
+  }
+ ]
+}
