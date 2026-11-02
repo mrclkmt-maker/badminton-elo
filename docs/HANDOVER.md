@@ -75,6 +75,10 @@ Kroky: stáhnout chybějící kola + znovu 2 poslední → ELO → web → commi
 Pages je nastaveno na zdroj „GitHub Actions“ (build_type workflow). Bez tajných klíčů.
 
 Pokud by portál změnil HTML, spadne krok stahování a Marcelovi přijde e-mail o neúspěšném běhu.
+Každé kolo má v JSON pole `scraped` (datum stažení), takže 2 poslední kola se commitují prakticky denně – drobný, záměrně tolerovaný šum.
+Push, který mění jen docs/ nebo README, workflow nespouští.
+
+Historie běhů: první běh 2. 11. 2026 spadl (syntaktická chyba v scrape.py, opraveno commitem 1fb7cec), druhý prošel a web je nasazený.
 
 ## Známá omezení
 
